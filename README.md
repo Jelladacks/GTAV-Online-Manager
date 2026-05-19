@@ -8,6 +8,8 @@
 * **Search Vehicle Info**
 
   Find a vehicle Easily using the filters at the top
+  * Designed for multilingual users, this project allows transit searches in multiple languages.
+  * Currently, it supports Korean only, but you can add or modify other languages by following the data customization guide below
   ![Search](https://github.com/user-attachments/assets/70584799-afc1-4703-8421-90aca9376ae6)
   
 * **Manage Your Own Vehicle**
