@@ -1,0 +1,840 @@
+﻿carExIdx,Company,EngName,KorName
+839,Brute,Boxville (Humane Labs),박스빌 (휴메인 연구소)
+838,BF,Surfer (Rusty),서퍼 (녹슨)
+837,Vapid,Speedo Custom (Personal),스피도 커스텀 (개인차량)
+836,Bravado,Rumpo (Deludamol),럼포 (델루다몰)
+835,Declasse,Burrito (McGill-Olsen),부리토 (맥길 올슨)
+834,Declasse,Burrito (LSDWP),부리토 (LSDWP)
+833,Bravado,Bison (McGill-Olsen),바이슨 (맥길 올슨)
+832,Bravado,Bison (The Mighty Bush),바이슨 (마이티 부시)
+831,Brute,Pony (Smoke on the water),포니 (스모크 온 더 워터)
+830,Bravado,Buffalo STX Pursuit,버팔로 STX 퍼슈트
+829,Bravado,Buffalo Cruiser,버팔로 크루저
+828,Western,Police bike,경찰 오토바이
+827,Vapid,Stanier LE Cruiser,스태니어 LE 크루저
+826,Shitzu,Keitora,케이토라
+825,Grotti,Itali Classic,이탈리 클래식
+824,Pfister,Astrale,아스타흘레
+823,Karin,Vivanite KnoWay,비바나이트 노웨이
+822,Progen,Luiva,루이바
+821,Vapid,FMJ MK V,FMJ MK V
+820,Pfister,X-Treme,익스트림
+819,Grotti,GT750,GT750
+818,Ubermacht,Sentinel XS4,센티넬 XS4
+817,Vapid,Tow Truck (Salvage Yard),견인차 (폐차장)
+816,Vapid,Tow Truck (Salvage Yard Beater),견인차 (폐차장 녹슨)
+815,Declasse,Drift Walton L35,드리프트 왈튼 L35
+814,Declasse,Walton L35 Stock,왈튼 L35 스톡
+813,Brute,Bobcat Security Stockade,밥캣 시큐리티 스타케이드
+812,Grotti,LSCM Cheetah Classic,LSCM 치타 클래식
+811,Karin,Woodlander,우드랜더
+810,Karin,Everon RS,에버론 RS
+809,Ubermacht,Sentinel GTS,센티넬 GTS
+808,Dewbauchee,Rapid GT X,라피드 GT X
+807,Annis,Minimus,미니무스
+806,Annis,Hardy,하디 웨이
+805,Declasse,Tampa GT,탬파 GT
+804,Buckingham,Higgins Helitours Maverick,히긴스 헬기투어 매버릭
+803,Overflod,Suzume,스즈메
+802,Invetero,Coquette D5,코켓 D5
+801,Western,Duster 300-H,더스터 300-H
+800,Eberhard,Titan 250 D,타이탄 250 D
+799,Buckingham,DH-7 Iron Mule,DH-7 아이언 뮬
+798,Vapid,Uranus Lozspeed,우라노스 로즈스피드
+797,Vapid,Firebolt ASP,파이어볼트 ASP
+796,Invetero,Coquette D10 Pursuit,코켓 D10 퍼슈트
+795,Willard,Outreach Faction,아우트리치 팩션
+794,Dinka,Chavos V6,차보스 V6
+793,Dinka,LSCM Jester RR,LSCM 제스터 RR
+792,Canis,Terminus Patrol,터미너스 순찰차
+791,Vapid,Caracara Pursuit,카라카라 퍼슈트
+790,Bravado,Banshee GTS,밴시 GTS
+789,Benefactor,Vorschlaghammer,포쉴라크하마
+788,Vapid,Dominator FX,도미네이터 FX
+787,Pegassi,Pizza Boy,피자 보이
+786,Canis,Castigator,캐스티게이터
+785,Vapid,Dominator FX Interceptor,도미네이터 FX 인터셉터
+784,Declasse,Impaler LX Cruiser,임페일러 LX 크루저
+783,Annis,Euros X32,유로스 X32
+782,Invetero,Coquette D1,코켓 D1
+781,Bravado,Dorado Cruiser,도라도 크루저
+780,Bollokan,Envisage,엔비사지
+779,Ubermacht,Niobe,니오베
+778,Enus,Paragon S,파라곤 S
+777,Overflod,Pipistrello,피피스트렐로
+776,Declasse,Burrito (Bail Enforcement),부리토 (보석 사무소)
+775,Declasse,Impaler SZ Cruiser,임페일러 SZ 크루저
+774,Bravado,Greenwood Cruiser,그린우드 크루저
+773,Declasse,Yosemite 1500,요세미티 1500
+772,Vapid,Benson (Cluckin' Bell),벤슨 (클러킹 벨)
+771,Canis,Terminus,터미너스
+770,Bravado,Police Gauntlet Interceptor,건틀렛 인터셉터
+769,Declasse,Impaler SZ,임페일러 SZ
+768,Gallivanter,Baller ST-D,볼러 ST-D
+767,Albany,Cavalcade XL,카발케이드 XL
+766,Bravado,Dorado,도라도
+765,Declasse,Vigero ZX Convertible,비게로 ZX 컨버터블
+764,Vapid,Aleutian,알류샨
+763,Grotti,Turismo Omaggio,투리스모 오마조
+762,Fathom,FR36,FR36
+761,Declasse,Impaler LX,임페일러 LX
+760,Vapid,Dominator GT,도미네이터 GT
+759,Karin,Vivanite,비바나이트
+758,Karin,Asterope GZ,아스트로프 GZ
+757,Albany,Brigham,브리검
+756,Bravado,Hotring Hellfire,핫 링 헬파이어
+755,Buckingham,Weaponized Conada,코나다(무기화)
+754,Penaud,La Coureuse,라 쿠흐즈
+753,Coil,Junk Energy Inductor,정크 에너지 인덕터
+752,Coil,Inductor,인덕터
+751,Bravado,Buffalo EVX,버팔로 EVX
+750,Grotti,Stinger TT,스팅거 TT
+749,Declasse,Walton L35 (Lifted),왈튼 L35
+748,Mammoth,Streamer216,스트리머216
+747,Vapid,Ratel,레이텔
+746,Maibatsu,Monstrociti,몬스트로시티
+745,Vapid,Clique Wagon,클리크 웨건
+744,Mammoth,F-160 Raiju,F-160 라이주
+743,Karin,Boor,부어
+742,Willard,Eudora,유도라
+741,Ocelot,Virtue,버츄
+740,Karin,Hotring Everon,핫 링 에버론
+739,Toundra,Panthere,팡테르
+738,Classique,Broadway,브로드웨이
+737,Weeny,Issi Rally,이씨 랠리
+736,Western,Powersurge,파워서지
+735,Declasse,Tahoma Coupe,타호마 쿠페
+734,Overflod,Entity MT,엔터티 MT
+733,Maibatsu,Manchez Scout C (Delivery Bike),만체스 스카우트 C (배달 바이크)
+732,Annis,300R,300R
+731,Zirconium,Journey II,저니 II
+730,Declasse,Tulip M-100,튤립 M-100
+729,BF,Surfer Custom,서퍼 커스텀
+728,MTL,Brickade 6x6 (Acid Lab),브릭케이드 6x6 (프릭샵)
+727,Ubermacht,Sentinel Classic Widebody,센티넬 클래식 와이드바디
+726,Obey,10F Widebody,10F 와이드바디
+725,BF,Weevil Custom,위블 커스텀
+724,Ubermacht,Rhinehart,라인하트
+723,Obey,10F,10F
+722,Dinka,Kanjo SJ,칸조 SJ
+721,Dinka,Postlude,포스트류드
+720,Declasse,Vigero ZX,비게로 ZX
+719,Grotti,Brioso 300 Widebody,브리오소 300 와이드바디
+718,Imponte,Ruiner ZZ-8,루이너 ZZ-8
+717,Declasse,Draugur,드라우구르
+716,Benefactor,SM722,SM722
+715,Benefactor,LM87,LM87
+714,Pegassi,Torero XO,토레로 XO
+713,Obey,Omnis E-GT,옴니스 e-GT
+712,Buckingham,Conada,코나다
+711,Bravado,Greenwood,그린우드
+710,Lampadati,Corsita,코르시타
+709,Coil,Cyclone II,사이클론 II
+708,Imponte,Arbiter GT,아비터 GT
+707,Karin,S95,S95
+706,Pfister,Astron Custom,아스트론 커스텀
+705,Pegassi,Weaponized Ignus,무기화 이그너스
+704,Western,Reever,리버
+703,Declasse,Granger 3600LX,그레인저 3600LX
+702,Obey,I-Wagen,I-바겐
+701,Nagasaki,Shinobi,시노비
+700,Pfister,Comet S2 Cabrio,코메트 S2 카브리오
+699,Mammoth,Patriot Mil-Spec,밀 스펙 패트리어트
+698,Gallivanter,Baller ST,볼러 ST
+697,Overflod,Zeno,제노
+696,Bravado,Youga Custom,요우가 커스텀
+695,Bravado,Buffalo STX,버팔로 STX
+694,Pegassi,Ignus,이그너스
+693,Enus,Deity,디에티
+692,Lampadati,Cinquemila,친퀘밀라
+691,Pfister,Astron,아스트론
+690,Dewbauchee,Champion,챔피언
+689,Enus,Jubilee,주빌리
+688,Karin,Previon,프레비온
+687,Ubermacht,Cypher,사이퍼
+686,Karin,Sultan RS Classic,설튼 RS 클래식
+685,Pfister,Growler,그라울러
+684,Emperor,Vectre,벡터
+683,Vapid,Dominator ASP,도미네이터 ASP
+682,Pfister,Comet S2,코메트 S2
+681,Annis,Remus,레무스
+680,Dinka,Jester RR,제스터 RR
+679,Obey,Tailgater S,테일게이터 S
+678,Vulcar,Warrener HKR,워러너 HKR
+677,Dinka,RT3000,RT3000
+676,Annis,ZR350,ZR350
+675,Vapid,Dominator GTT,도미네이터 GTT
+674,Annis,Euros,유로스
+673,Karin,Futo GTX,퓨토 GTX
+672,Karin,Calico GTF,칼리코 GTF
+671,Nagasaki,Weaponized Dinghy,딩이(무기화)
+670,Dinka,Verus,베루스
+669,Mammoth,Squaddie,스쿼디
+668,HVY,Vetir,베티르
+667,Vapid,Slamtruck,슬램트럭
+666,Maibatsu,Manchez Scout,만체스 스카우트
+665,Grotti,Brioso 300,브리오소 300
+664,BF,Weevil,위블
+663,Grotti,Itali RSX,이탈리 RSX
+662,Dinka,Veto Modern,베토 모던
+661,Dinka,Veto Classic,베토 클래식
+660,Rune,Kosatka,코사트카
+659,Pegassi,Toreador,토레아도르
+658,,Sparrow,스패로우
+657,Kraken Submersibles,Avisa,아비사
+656,,Kurtz 31 Patrol Boat,커츠 31 순찰 보트
+655,Shitzu,Longfin,롱핀
+654,Western,Annihilator Stealth,어나이얼레이터  스텔스
+653,,RO-86 Alkonost,RO-86 알코노스트
+652,Vapid,Winky,윙키
+651,Bravado,Gauntlet Classic Custom,건틀렛 클래식 커스텀
+650,Declasse,Yosemite Rancher,요세미티 랜처
+649,Bravado,Youga Classic 4x4,요우가 클래식 4x4
+648,Benefactor,Glendale Custom,글렌데일 커스텀
+647,Vapid,Peyote Custom,피요트 커스텀
+646,Albany,Manana Custom,마나나 커스텀
+645,Imponte,Beater Dukes,비터 듀크스
+644,Canis,Seminole Frontier,세미놀 프론티어
+643,Dundreary,Landstalker XL,랜드스토커 XL
+642,Maibatsu,Penumbra FF,페넘브라 FF
+641,BF,Club,클럽
+640,Invetero,Coquette D10,코켓 D10
+639,Lampadati,Tigon,타이곤
+638,Declasse,DR1,DR1
+637,Benefactor,BR8,BR8
+636,Nagasaki,Stryder,스트라이더
+635,Progen,PR4,PR4
+634,Ocelot,R88,R88
+633,Dinka,Blista Kanjo,블리스타 칸조
+632,Dinka,Sugoi,스고이
+631,Declasse,Drift Yosemite,드리프트 요세미티
+630,Albany,V-STR,V-STR
+629,Nagasaki,Outlaw,아웃로
+628,Karin,Sultan Classic,설튼 클래식
+627,Overflod,Imorgon,이모곤
+626,Rune,Zhaba,자바
+625,Dewbauchee,JB 700W,JB 700W
+624,,Invade and Persuade RC Tank,침입과 설득 전차
+623,Grotti,Furia,퓨리아
+622,Ubermacht,Rebla GTS,레블라 GTS
+621,Lampadati,Komoda,코모다
+620,Maxwell,Asbo,아스보
+619,Vapid,Retinue Mk II,레티뉴 Mk II
+618,Karin,Everon,에버론
+617,Maxwell,Vagrant,베이그런트
+616,Vapid,Peyote Gasser,피요트 개서
+615,Lampadati,Novak,노박
+614,Western,Rampant Rocket Tricycle,램펀트 로켓
+613,Pegassi,Zorrusso,조루쏘
+612,Weeny,Dynasty,다이너스티
+611,Ocelot,Jugular,저귤라
+610,Annis,Hellion,헬리온
+609,Ubermacht,Zion Classic,지온 클래식
+608,Benefactor,Krieger,크리거
+607,Bravado,Gauntlet Hellfire,건틀렛 헬파이어
+606,Ocelot,Locust,로커스트
+605,Vulcar,Nebula Turbo,네뷸라 터보
+604,Progen,Emerus,에메루스
+603,Bravado,Gauntlet Classic,건틀렛 클래식
+602,Vysser,Neo,네오
+601,Vapid,Caracara 4x4,카라카라 4x4
+600,Weeny,Issi Sport,이씨 스포츠
+599,Obey,8F Drafter,8F 드래프터
+598,Enus,Paragon R (Armored),파라곤 R(방탄)
+597,Enus,Paragon R,파라곤 R
+596,Annis,S80RR,S80RR
+595,Truffade,Thrax,트랙스
+594,Principe,Deveste Eight,디베스트 에이트
+593,Declasse,Vamos,바모스
+592,Schyster,Deviant,디비언트
+591,,RC Bandito,RC 밴디토
+590,Benefactor,Schlagen GT,슐라겐 GT
+589,Declasse,Tulip,튤립
+588,Grotti,Itali GTO,이탈리 GTO
+587,Vapid,Clique,클리크
+586,Pegassi,Toros,토로스
+585,Annis,Nightmare ZR380,나이트메어 ZR380
+584,Vapid,Nightmare Slamvan,나이트메어 슬램밴
+583,HVY,Nightmare Scarab,나이트메어 스카라브
+582,Bravado,Nightmare Sasquatch,나이트메어 새스쿼치
+581,Weeny,Nightmare Issi,나이트메어 이씨
+580,Vapid,Nightmare Imperator,나이트메어 임퍼레이터
+579,Declasse,Nightmare Impaler,나이트메어 임페일러
+578,Vapid,Nightmare Dominator,나이트메어 도미네이터
+577,Western,Nightmare Deathbike,나이트메어 데스바이크
+576,MTL,Nightmare Cerberus,나이트메어 케르베로스
+575,Declasse,Nightmare Brutus,나이트메어 브루터스
+574,Benefactor,Nightmare Bruiser,나이트메어 브루저
+573,Annis,Future Shock ZR380,퓨쳐 쇼크 ZR380
+572,Vapid,Future Shock Slamvan,퓨쳐 쇼크 슬램밴
+571,HVY,Future Shock Scarab,퓨쳐 쇼크 스카라브
+570,Bravado,Future Shock Sasquatch,퓨쳐 쇼크 새스쿼치
+569,Weeny,Future Shock Issi,퓨쳐 쇼크 이씨
+568,Vapid,Future Shock Imperator,퓨쳐 쇼크 임퍼레이터
+567,Declasse,Future Shock Impaler,퓨쳐 쇼크 임페일러
+566,Vapid,Future Shock Dominator,퓨쳐 쇼크 도미네이터
+565,Western,Future Shock Deathbike,퓨쳐 쇼크 데스바이크
+564,MTL,Future Shock Cerberus,퓨쳐 쇼크 케르베로스
+563,Declasse,Future Shock Brutus,퓨쳐 쇼크 브루터스
+562,Benefactor,Future Shock Bruiser,퓨쳐 쇼크 브루저
+561,Annis,Apocalypse ZR380,아포칼립스 ZR380
+560,Vapid,Apocalypse Slamvan,아포칼립스 슬램밴
+559,HVY,Apocalypse Scarab,아포칼립스 스카라브
+558,Bravado,Apocalypse Sasquatch,아포칼립스 새스쿼치
+557,Weeny,Apocalypse Issi,아포칼립스 이씨
+556,Vapid,Apocalypse Imperator,아포칼립스 임퍼레이터
+555,Declasse,Apocalypse Impaler,아포칼립스 임페일러
+554,Vapid,Apocalypse Dominator,아포칼립스 도미네이터
+553,Western,Apocalypse Deathbike,아포칼립스 데스바이크
+552,MTL,Apocalypse Cerberus,아포칼립스 케르베로스
+551,Declasse,Apocalypse Brutus,아포칼립스 브루터스
+550,Benefactor,Apocalypse Bruiser,아포칼립스 브루저
+549,Declasse,Impaler,임페일러
+548,Canis,Freecrawler,프리크롤러
+547,HVY,Menacer,메네서
+546,Declasse,Scramjet,스크램제트
+545,Pegassi,Oppressor MK II,오프레서 Mk II
+544,Benefactor,Terrorbyte,테러바이트
+543,,B-11 Strikeforce,B-11 스트라이크포스
+542,Enus,Stafford,스태포드
+541,,Blimp,비행선
+540,Vapid,Speedo Custom (Nightclub),스피도 커스텀
+539,Vapid,Festival Bus,페스티벌 버스
+538,Mammoth,Patriot Stretch,패트리어트 스트레치
+537,MTL,Pounder Custom,파운더 커스텀
+536,Maibatsu,Mule Custom,뮬 커스텀
+535,Ocelot,Swinger,스윙어
+534,Dinka,Jester Classic,제스터 클래식
+533,Lampadati,Michelli GT,미첼리 GT
+532,Rune,Cheburek,체부렉
+531,Overflod,Tyrant,타이런트
+530,Vapid,Dominator GTX,도미네이터 GTX
+529,,Sea Sparrow,씨 스패로우
+528,Weeny,Issi Classic,이씨 클래식
+527,Vapid,Flash GT,플래시 GT
+526,Vapid,Caracara,카라카라
+525,Pegassi,Tezeract,테저랙트
+524,Vapid,Ellie,엘리
+523,Vapid,GB200,GB200
+522,Cheval,Taipan,타이판
+521,Overflod,Entity XXR,엔터티 XXR
+520,Vulcar,Fagaloa,파갈로아
+519,Declasse,Hotring Sabre,핫 링 세이버
+518,Pfister,Comet SR,코메트 SR
+517,Karin,190z,190z
+516,Vapid,Hustler,허슬러
+515,Canis,Kamacho,카마초
+514,Pfister,Neon,네온
+513,Ubermacht,Revolter,리볼터
+512,Grotti,GT500,GT500
+511,Lampadati,Viseris,비세리스
+510,Annis,Savestra,사베스트라
+509,Overflod,Autarch,아타크
+508,Albany,Hermes,헤르메스
+507,Benefactor,Streiter,스트레이터
+506,Ubermacht,Sentinel Classic,센티넬 클래식
+505,Mammoth,Avenger,어벤져
+504,Mammoth,Thruster jetpack,쓰러스터
+503,Imponte,Deluxo,디럭소
+502,Ocelot,Stromberg,스트롬버그
+501,,TM-02 Khanjali,TM-02 칸잘리
+500,Brute,RCV,RCV
+499,HVY,Chernobog,체르노버그
+498,HVY,Barrage,배라지
+497,,Volatol,볼라톨
+496,Buckingham,Akula,아쿨라
+495,Ubermacht,SC1,SC1
+494,Coil,Raiden,라이덴
+493,Ocelot,Pariah,파리아
+492,Pfister,Comet Safari,코메트 사파리
+491,Declasse,Yosemite,요세미티
+490,Vapid,Riata,리아타
+489,,FH-1 Hunter,FH-1 헌터
+488,Coil,Cyclone,사이클론
+487,,P-45 Nokota,P-45 노코타
+486,Western,Seabreeze,시브리즈
+485,Grotti,Vigilante,비질란테
+484,Buckingham,Pyro,파이로
+483,Mammoth,Mogul,모굴
+482,Buckingham,Howard NX-25,하워드 NX-25
+481,,RM-10 Bombushka,RM-10 밤부쉬카
+480,Dewbauchee,Rapid GT Classic,라피드 GT 클래식
+479,Grotti,Visione,비전
+478,Vapid,Retinue,레티뉴
+477,,V-65 Molotok,V-65 몰로토크
+476,Nagasaki,Ultralight,울트라라이트
+475,Mammoth,Tula,툴라
+474,Western,Rogue,로그
+473,,LF-22 Starling,LF-22 스탈링
+472,Buckingham,Alpha-Z1,알파-Z1
+471,Nagasaki,Havok,하복
+470,Ocelot,Ardent,아덴트
+469,Ocelot,XA-21,XA-21
+468,HVY,Nightshark,나이트샤크
+467,HVY,Insurgent Pick-up Custom,인서전트 픽업 커스텀
+466,Pegassi,Torero,토레로
+465,Karin,Technical Custom,테크니컬 커스텀
+464,Grotti,Cheetah Classic,치타 클래식
+463,Dewbauchee,Vagner,바그너
+462,,Mobile Operations Center (Trailer),이동식 작전 본부 트레일러
+461,Nagasaki,Caddy (Bunker),캐디
+460,BF,Dune FAV,듄 FAV
+459,Declasse,Weaponized Tampa,탬파(무기화)
+458,Pegassi,Oppressor,오프레서
+457,Bravado,Half-track,하프트랙
+456,HVY,APC,APC
+455,Vom Feuer,Anti-Aircraft Trailer,대공 방어 트레일러
+454,Jobuilt,Phantom custom,팬텀 커스텀
+453,Jobuilt,Hauler Custom,헐러 커스텀
+452,Grotti,Turismo Classic,투리스모 클래식
+451,Pegassi,Infernus Classic,인퍼너스 클래식
+450,Hijak,Ruston,러스튼
+449,Progen,GP1,GP1
+448,Dewbauchee,Specter Custom,스펙터 커스텀
+447,Dewbauchee,Specter,스펙터
+446,Progen,Itali GTB Custom,이탈리 GTB 커스텀
+445,Progen,Itali GTB,이탈리 GTB
+444,Pegassi,FCR 1000 Custom,FCR 1000 커스텀
+443,Pegassi,FCR 1000,FCR 1000
+442,Pfister,Comet Retro Custom,코메트 레트로 커스텀
+441,Truffade,Nero Custom,네로 커스텀
+440,Truffade,Nero,네로
+439,Brute,Armored Boxville,방탄 박스빌
+438,Pegassi,Tempesta,템페스타
+437,Coil,Rocket Voltic,로켓 볼틱
+436,Ocelot,Penetrator,페네트레이터
+435,Annis,Elegy Retro Custom,엘레지 레트로 커스텀
+434,MTL,Wastelander,웨이스트랜더
+433,Karin,Technical Aqua,테크니컬 아쿠아
+432,BF,Ramp Buggy,램프 버기
+431,Nagasaki,Blazer Aqua,블레이저 아쿠아
+430,Imponte,Ruiner 2000,루이너 2000
+429,Principe,Diabolus Custom,디아볼러스 커스텀
+428,Principe,Diabolus,디아볼러스
+427,Jobuilt,Phantom Wedge,팬텀 웨지
+426,Bravado,Youga Classic,요우가 클래식
+425,Pegassi,Esskey,에스키
+424,Nagasaki,Shotaro,쇼타로
+423,Declasse,Tornado Rat Rod,토네이도 랫 로드
+422,LCC,Sanctus,상투스
+421,Pegassi,Vortex,보르텍스
+420,BF,Raptor,랩터
+419,Western,Daemon (Custom),데이먼 (커스텀)
+418,Nagasaki,Street Blazer,스트리트 블레이저
+417,Western,Zombie Chopper,좀비 초퍼
+416,Western,Zombie Bobber,좀비 바버
+415,Western,Wolfsbane,울프스베인
+414,Western,Rat Bike,랫 바이크
+413,Western,Nightblade,나이트블레이드
+412,Maibatsu,Manchez,만체스
+411,Shitzu,Hakuchou Drag Bike,하쿠초우 드래그
+410,Pegassi,Faggio Sport,파지오 스포츠
+409,Pegassi,Faggio Mod,파지오 모드
+408,Shitzu,Defiler,디파일러
+407,Nagasaki,Chimera,키메라
+406,LCC,Avarus,아바루스
+405,Vapid,Contender,컨텐더
+404,MTL,Dune,듄
+403,Declasse,Drift Tampa,드리프트 탬파
+402,Ocelot,Lynx,링크스
+401,Western,Cliffhanger,클리프행어
+400,Progen,Tyrus,타이러스
+399,Annis,RE-7B,RE-7B
+398,Emperor,ETR1,ETR1
+397,Lampadati,Tropos Rallye,트로포스 랠리
+396,Obey,Omnis,옴니스
+395,Vapid,Trophy Truck,트로피 트럭
+394,Vapid,Desert Raid,데저트 레이드
+393,Western,Gargoyle,가고일
+392,Nagasaki,BF400,BF400
+391,Grotti,Brioso R/A,브리오소 R/A
+390,Dewbauchee,Seven-70,세븐-70
+389,Pfister,811,811
+388,Grotti,X80 Proto,X80 프로토
+387,Bravado,Rumpo Custom,럼포 커스텀
+386,Benefactor,XLS (Armored),XLS(방탄)
+385,Benefactor,XLS,XLS
+384,Pegassi,Reaper,리퍼
+383,Vapid,FMJ,FMJ
+382,Grotti,Bestia GTS,베스티아 GTS
+381,MTL,Brickade,브릭케이드
+380,Buckingham,Nimbus,님버스
+379,Buckingham,Volatus,볼라투스
+378,Enus,Windsor Drop,윈저 드롭
+377,Buckingham,Tug,터그
+376,Declasse,Sabre Turbo Custom,세이버 터보 커스텀
+375,Vapid,Minivan Custom,미니밴 커스텀
+374,Declasse,Tornado Custom,토네이도 커스텀
+373,Dundreary,Virgo Classic Custom,버고 클래식 커스텀
+372,Dundreary,Virgo Classic,버고 클래식
+371,Vapid,Slamvan Custom,슬램밴 커스텀
+370,Willard,Faction Custom Donk,팩션 커스텀 동크
+369,Albany,Roosevelt Valor,루즈벨트 밸러
+368,Karin,Sultan RS,설튼 RS
+367,Bravado,Banshee 900R,밴시 900R
+366,Declasse,Tampa,탬파
+365,Gallivanter,Baller LE LWB (Armored),볼러 LE LWB (방탄)
+364,Gallivanter,Baller LE LWB,볼러 LE LWB
+363,Gallivanter,Baller LE (Armored),볼러 LE (방탄)
+362,Gallivanter,Baller LE,볼러 LE
+361,Declasse,Mamba,맘바
+360,Bravado,Verlierer,벌리어러
+359,Benefactor,Schafter V12,샤프터 V12
+358,Benefactor,Schafter LWB,샤프터 LWB
+357,Benefactor,Turreted Limo,포탑 리무진
+356,Benefactor,Schafter V12 (Armored),샤프터 V12 (방탄)
+355,Benefactor,Schafter LWB (Armored),샤프터 LWB (방탄)
+354,Enus,Cognoscenti 55 (Armored),코뇨센티 55 (방탄)
+353,Enus,Cognoscenti 55,코뇨센티 55
+352,Enus,Cognoscenti (Armored),코뇨센티 (방탄)
+351,Enus,Cognoscenti,코뇨센티
+350,Imponte,Nightshade,나이트셰이드
+349,Buckingham,SuperVolito Carbon,슈퍼볼리토 카본
+348,Buckingham,SuperVolito,슈퍼볼리토
+347,Albany,Franken Stange,프랑켄 스탠지
+346,Albany,Lurcher,러처
+345,Albany,Primo Custom,프리모 커스텀
+344,Declasse,Voodoo Custom,부두 커스텀
+343,Declasse,Moonbeam Custom,문빔 커스텀
+342,Declasse,Moonbeam,문빔
+341,Willard,Faction Custom,팩션 커스텀
+340,Willard,Faction,팩션
+339,Vapid,Chino Custom,치노 커스텀
+338,Albany,Buccaneer Custom,부카니어 커스텀
+337,Progen,T20,T20
+336,Coil,Brawler,브롤러
+335,Invetero,Coquette BlackFin,코켓 블랙핀
+334,Vapid,Chino,치노
+333,Dinka,Vindicator,빈디케이터
+332,Lampadati,Toro,토로
+331,Pegassi,Osiris,오시리스
+330,Benefactor,Stirling GT,스털링 GT
+329,Buckingham,Luxor Deluxe,룩소르 디럭스
+328,Albany,Virgo,버고
+327,Buckingham,Swift Deluxe,스위프트 디럭스
+326,Enus,Windsor,윈저
+325,HVY,Insurgent Pick-up,인서전트 픽업
+324,Vapid,Lost Slamvan,로스트 슬램밴
+323,Maibatsu,Mule (Heist),뮬
+322,Declasse,Gang Burrito,갱 부리토
+321,Brute,Boxville (Post OP),박스빌
+320,Lampadati,Casco,카스코
+319,Karin,Kuruma (Armored),구루마 (방탄)
+318,Karin,Kuruma,구루마
+317,Jobuilt,Velum 5-Seater,벨럼 5인승
+316,Mammoth,Hydra,히드라
+315,Karin,Technical,테크니컬
+314,HVY,Insurgent,인서전트
+313,Principe,Lectro,렉트로
+312,Dinka,Enduro,엔듀로
+311,Vapid,Guardian,가디언
+310,Buckingham,Valkyrie,발키리
+309,,Savage,새비지
+308,Dewbauchee,Massacro (Racecar),마사크로 (레이스카)
+307,Dinka,Jester (Racecar),제스터 (레이스카)
+306,Vapid,Slamvan,슬램밴
+305,Bravado,Rat-Truck,랫-트럭
+304,Bravado,Sprunk Buffalo,스프렁크 버팔로
+303,Dinka,Go Go Monkey Blista,고 고 몽키 블리스타
+302,Dinka,Blista Compact,블리스타 콤팩트
+301,,Xero Blimp,제로 비행선
+300,Mammoth,Dodo,도도
+299,Cheval,Marshall,마샬
+298,Declasse,Burger Shot Stallion,버거 샷 스탈리온
+297,Declasse,Stallion,스탈리온
+296,Bravado,Redwood Gauntlet,레드우드  건틀렛
+295,Imponte,Dukes,듀크
+294,Imponte,Duke O'Death,듀크 오 데스
+293,Vapid,Pißwasser Dominator,피스와서 도미네이터
+292,Kraken Submersibles,Kraken,크라켄
+291,Lampadati,Furore GT,푸로어 GT
+290,Canis,Kalahari (Topless),칼라하리 (개방형)
+289,LCC,Innovation,이노베이션
+288,Shitzu,Hakuchou,하쿠초우
+287,Invetero,Coquette Classic (Topless),코켓 클래식 (개방형)
+286,Invetero,Coquette Classic,코켓 클래식
+285,Buckingham,Miljet,군용 제트기
+284,Western,Besra,베스라
+283,Buckingham,Swift,스위프트 클래식
+282,Vapid,Liberator,리버레이터
+281,Western,Sovereign,소버린
+280,Lampadati,Pigalle,피갈
+279,Vulcar,Warrener,워러너
+278,Benefactor,Glendale,글렌데일
+277,Benefactor,Dubsta 6x6,덥스타 6x6
+276,Vapid,Blade,블레이드
+275,Declasse,Rhapsody,랩소디
+274,Benefactor,Panto,팬토
+273,Enus,Huntley S,헌틀리 S
+272,Pegassi,Zentorno,젠토르노
+271,Dewbauchee,Massacro,마사크로
+270,Dinka,Thrust,쓰러스트
+269,Grotti,Turismo R,투리스모 R
+268,Dinka,Jester,제스터
+267,Albany,Alpha,알파
+266,Buckingham,Vestra,베스트라
+265,Albany,Roosevelt,루즈벨트
+264,Bravado,Paradise,파라다이스
+263,Canis,Kalahari,칼라하리
+262,BF,Bifta,비프타
+261,Pegassi,Speeder,스피더
+260,Hijak,Khamelion,카멜리온
+259,Western,Annihilator,어나이얼레이터
+258,Brute,Boxville (LSDWP),박스빌 (LSDWP)
+257,Brute,Boxville (Go Postal),박스빌 (Go Postal)
+256,Declasse,Bugstars Burrito,벅스타 부리토
+255,Declasse,Tornado (Mariachi),토네이도 마리아치
+254,Benefactor,Dubsta 2,덥스타 2
+253,Declasse,Gang Burrito (Lost MC),갱 부리토 (로스트 MC)
+252,Albany,Emperor (Beater),엠페러 (녹슨)
+251,Declasse,Tornado (Beater),토네이도 (녹슨)
+250,Brute,Boxville (LSDS),박스빌 (LSDS)
+249,Vapid,Taxi Custom,택시 커스텀
+248,MTL,Custom Flatbed,커스텀 플랫베드
+247,Vapid,Clown Van,삐에로 밴
+246,HVY,Mixer II,믹서 2
+245,Brute,Tipper II,티퍼 2
+244,Western,Cargobob Jetsam,카고밥 제트샘
+243,Karin,Dilettante (Patrol),딜레탄테 (패트롤)
+242,Speedophile,Seashark Lifeguard,해안 구조용 씨샤크
+241,Nagasaki,Caddy (Civilian),캐디
+240,Albany,Police RoadCruiser,경찰 로드크루저
+239,Declasse,Police Rancher,경찰 랜처
+238,BF,Space Docker,스페이스 도커
+237,,Metro Train,지하철
+236,,Freight Train,기차
+235,,Cable Car,케이블카
+234,,Cargo Plane,화물 수송기
+233,Bravado,Youga,요우가
+232,Brute,Taco Van,타코 밴
+231,BF,Surfer,서퍼
+230,Vapid,Speedo,스피도
+229,Bravado,Rumpo,럼포
+228,Brute,Pony,포니
+227,Vapid,Minivan,미니밴
+226,Zirconium,Journey,저니
+225,Brute,Camper,캠퍼
+224,Declasse,Burrito,부리토
+223,Vapid,Bobcat XL,밥캣 XL
+222,Bravado,Bison,바이슨
+221,Vapid,Utility Truck (Contender),다용도 트럭 (컨텐더)
+220,Brute,Utility Truck (Cherry Picker),다용도 트럭 (체리 피커)
+219,Brute,Utility Truck (Van),다용도 트럭 (밴)
+218,Stanley,Tractor,트랙터
+217,Vapid,Tow Truck (Large),견인차
+216,Vapid,Tow Truck (Small),슬램밴 견인차
+215,Vapid,Scrap Truck,스크랩 트럭
+214,Vapid,Sadler,새들러
+213,HVY,Ripley,리플리
+212,Jacksheepe,Lawn Mower,잔디깎이
+211,HVY,Forklift,지게차
+210,Stanley,Fieldmaster,필드마스터
+209,HVY,Docktug,닥터그
+208,Nagasaki,Caddy (Golf),캐디 (골프)
+207,HVY,Airtug,에어 터그
+206,Benefactor,Serrano,세라노
+205,Canis,Seminole,세미놀
+204,Obey,Rocoto,로코토
+203,Vapid,Radius,레이디어스
+202,Mammoth,Patriot,패트리어트
+201,Canis,Mesa,메사
+200,Dundreary,Landstalker,랜드스토커
+199,Emperor,Habanero,하바네로
+198,Bravado,Gresley,그레즐리
+197,Declasse,Granger,그레인저
+196,Fathom,FQ 2,FQ 2
+195,Benefactor,Dubsta,덥스타
+194,Albany,Cavalcade II,카발케이드 2
+193,Albany,Cavalcade,카발케이드
+192,Karin,Beejay XL,비제이 XL
+191,Gallivanter,Baller II,볼러 2
+190,Gallivanter,Baller,볼러
+189,Coil,Voltic (Topless),볼틱 (개방형)
+188,Coil,Voltic,볼틱
+187,Pegassi,Vacca,바카
+186,Pegassi,Infernus,인퍼너스
+185,Overflod,Entity XF,엔터티 XF
+184,Grotti,Cheetah,치타
+183,Vapid,Bullet,불릿
+182,Truffade,Adder,애더
+181,Truffade,Z-Type,Z-타입
+180,Declasse,Tornado (Convertible),토네이도 (컨버터블)
+179,Declasse,Tornado,토네이도
+178,Grotti,Stinger GT,스팅거 GT
+177,Grotti,Stinger (Topless),스팅거 (개방형)
+176,Grotti,Stinger,스팅거
+175,Vapid,Peyote,피요트
+174,Pegassi,Monroe,먼로
+173,Albany,Manana,마나나
+172,Dewbauchee,JB 700,JB 700
+171,Benefactor,Surano,수라노
+170,Karin,Sultan,설튼
+169,Benefactor,Schwartzer,슈와처
+168,Dewbauchee,Rapid GT Cabrio,라피드 GT
+167,Dewbauchee,Rapid GT,라피드 GT
+166,Maibatsu,Penumbra,페넘브라
+165,Karin,Futo,퓨토
+164,Schyster,Fusilade,퓨실레이드
+163,Benefactor,Feltzer,펠처
+162,Annis,Elegy RH8,엘레지 RH8
+161,Invetero,Coquette (Topless),코켓 (개방형)
+160,Invetero,Coquette,코켓
+159,Pfister,Comet,코메트
+158,Grotti,Carbonizzare,카보니자르
+157,Bravado,Buffalo S,버팔로 S
+156,Bravado,Buffalo,버팔로
+155,Bravado,Banshee (Topless),밴시 (개방형)
+154,Bravado,Banshee,밴시
+153,Obey,9F Cabrio,9F 카브리오
+152,Obey,9F,9F
+151,Jobuilt,Trashmaster,트래쉬마스터
+150,Brute,Tour bus,관광 버스
+149,Vapid,Taxi,택시
+148,Brute,Rental Shuttle Bus,임대 셔틀버스
+147,Brute,Dashound,대쉬하운드
+146,Brute,Bus,버스
+145,Brute,Airport Bus,공항 버스
+144,Albany,Washington,워싱턴
+143,Obey,Tailgater,테일게이터
+142,Cheval,Surge,서지
+141,Enus,Super diamond,슈퍼 다이아몬드
+140,Dundreary,Stretch,스트레치
+139,Zirconium,Stratum,스트라텀
+138,Vapid,Stanier,스태니어
+137,Benefactor,Schafter,샤프터
+136,Chariot,Romero Hearse,로메로 영구차
+135,Dundreary,Regina,레지나
+134,Albany,Primo,프리모
+133,Declasse,Premier,프리미어
+132,Karin,Intruder,인트루더
+131,Vulcar,Ingot,잉곳
+130,Cheval,Fugitive,퓨지티브
+129,Albany,Emperor,엠페러
+128,Karin,Asterope,아스트로프
+127,Declasse,Asea,아세아
+126,Jobuilt,Velum,벨럼
+125,Eberhard,Titan,타이탄
+124,Buckingham,Shamal,샤말
+123,Jobuilt,P-996 LAZER,P-996 레이저
+122,Jobuilt,Mammatus,마마터스
+121,Western,Mallard,말라드
+120,Buckingham,Luxor,룩소르
+119,,Jet,제트
+118,Western,Duster,더스터
+117,Western,Cuban 800,큐반 800
+116,,Atomic Blimp,아토믹 비행선
+115,Vapid,Sandking XL,샌드킹 XL
+114,Vapid,Sandking SWB,샌드킹 SWB
+113,Karin,Rusty Rebel,녹슨 레벨
+112,Karin,Rebel,레벨
+111,Declasse,Rancher XL,랜처 XL
+110,Canis,Mesa (Merryweather),메사 (메리웨더)
+109,BF,Injection,인젝션
+108,Nagasaki,Hot Rod Blazer,핫로드 블레이저
+107,Bravado,Duneloader,듄로더
+106,BF,Dune Buggy,듄 버기
+105,Canis,Bodhi,보디
+104,Nagasaki,Blazer Lifeguard,블레이저 해안구조용
+103,Nagasaki,Blazer,블레이저
+102,Declasse,Voodoo,부두
+101,Declasse,Vigero,비게로
+100,Declasse,Sabre Turbo,세이버 터보
+99,Imponte,Ruiner,루이너
+98,Bravado,Rat-Loader,랫-로더
+97,Cheval,Picador,피카도르
+96,Imponte,Phoenix,피닉스
+95,Vapid,Hotknife,핫나이프
+94,Bravado,Gauntlet,건틀렛
+93,Vapid,Dominator,도미네이터
+92,Albany,Buccaneer,부카니어
+91,Shitzu,Vader,베이더
+90,Maibatsu,Sanchez (Livery),산체스 (상징)
+89,Maibatsu,Sanchez,산체스
+88,Pegassi,Ruffian,루피앙
+87,Shitzu,PCJ 600,PCJ 600
+86,Principe,Nemesis,네메시스
+85,LCC,Hexer,헥서
+84,Pegassi,Faggio,파지오
+83,Dinka,Double-T,더블 T
+82,Western,Daemon (Lost MC),데이먼 (로스트 MC)
+81,Nagasaki,Carbon RS,카본 RS
+80,Pegassi,Bati 801RR,바티 801RR
+79,Pegassi,Bati 801,바티 801
+78,Western,Bagger,배거
+77,Dinka,Akuma,아쿠마
+76,,Rhino Tank,라이노 탱크
+75,Canis,Crusader,크루세이더
+74,HVY,Barracks Semi,배럭스 세미
+73,HVY,Barracks,배럭스
+72,Brute,Tipper,티퍼
+71,Jobuilt,Rubble,러블
+70,HVY,Mixer,믹서
+69,MTL,Flatbed,플랫베드
+68,HVY,Dump,덤프트럭
+67,HVY,Dozer,도저
+66,HVY,Dock Handler,부두 지게차
+65,HVY,Cutter,커터
+64,HVY,Skylift,스카이리프트
+63,Buckingham,Police Maverick,경찰 매버릭
+62,Buckingham,Maverick,매버릭
+61,Maibatsu,Frogger,프로거
+60,Western,Cargobob,카고밥
+59,Nagasaki,Buzzard Attack Chopper,버자드 공격 헬기
+58,Nagasaki,Buzzard,버자드
+57,Vapid,Unmarked Cruiser,위장 크루저
+56,Declasse,Sheriff SUV,보안관 SUV
+55,Vapid,Sheriff Cruiser,보안관 크루저
+54,Declasse,Police Transporter,경찰 트랜스포터
+53,Brute,Police Riot,경찰 라이엇
+52,Vapid,Prison Bus,죄수 호송 버스
+51,Vapid,Police Interceptor Cruiser,경찰 인터셉터 크루저
+50,Bravado,Police Buffalo Cruiser,버팔로 크루저
+49,Vapid,Police Stanier Cruiser,스태니어 크루저
+48,Western,Police Bike,경찰 오토바이
+47,Declasse,Park Ranger,파크 레인저
+46,Declasse,Lifeguard Granger,라이프가드
+45,MTL,Fire Truck,소방차
+44,Bravado,FIB (Buffalo),FIB (버팔로)
+43,Declasse,FIB (Granger),FIB (그레인저)
+42,Brute,Ambulance,구급차
+41,,Whippet Race Bike,휘펫 레이싱
+40,,Tri-Cycles Race Bike,트라이사이클
+39,,Scorcher,스코처
+38,,Fixter,픽스터
+37,,Endurex Race Bike,엔듀렉스 레이싱
+36,,Cruiser,크루저
+35,,BMX,BMX
+34,Ubermacht,Zion Cabrio,지온 카브리오
+33,Ubermacht,Zion,지온
+32,Ubermacht,Sentinel XS,센티넬 XS
+31,Ubermacht,Sentinel,센티넬
+30,Ubermacht,Oracle XS,오라클 XS
+29,Ubermacht,Oracle,오라클
+28,Ocelot,Jackal,자칼
+27,Lampadati,Felon GT,펠론 GT
+26,Lampadati,Felon,펠론
+25,Ocelot,F620,F620
+24,Dewbauchee,Exemplar,엑셈플러
+23,Enus,Cognoscenti Cabrio,코뇨센티 카브리오
+22,Bollokan,Prairie,프레어리
+21,Weeny,Issi,이씨
+20,Karin,Dilettante,딜레탄테
+19,Dinka,Blista,블리스타
+18,Brute,Stockade,스타케이드
+17,MTL,Pounder,파운더
+16,Jobuilt,Phantom,팬텀
+15,MTL,Packer,패커
+14,Maibatsu,Mule,뮬
+13,Jobuilt,Hauler,헐러
+12,HVY,Biff,비프
+11,Vapid,Benson,벤슨
+10,Shitzu,Tropic,트로픽
+9,Shitzu,Suntrap,선트랩
+8,,Submersible,잠수정
+7,Shitzu,Squalo,스쿠알로
+6,Speedophile,Seashark,씨샤크
+5,,Police Predator,경찰 프레데터
+4,Dinka,Marquis,마르퀴즈
+3,Shitzu,Jetmax,제트맥스
+2,Nagasaki,Dinghy (2-seater),딩이 (2인승)
+1,Nagasaki,Dinghy,딩이

@@ -1,0 +1,46 @@
+﻿ID,Label,Vehicle Class ID,Slot Type ID
+1,All Allowed,1,1
+2,All Allowed,2,1
+3,All Allowed,3,1
+4,All Allowed,4,1
+5,All Allowed,5,1
+6,All Allowed,6,1
+7,All Allowed,7,1
+8,All Allowed,8,1
+9,All Allowed,9,1
+10,All Allowed,10,1
+11,All Allowed,11,1
+12,All Allowed,12,1
+13,All Allowed,13,1
+14,All Allowed,14,1
+15,All Allowed,15,1
+16,All Allowed,16,1
+17,All Allowed,17,1
+18,All Allowed,18,1
+19,All Allowed,19,1
+20,All Allowed,20,1
+21,All Allowed,21,1
+22,All Allowed,22,1
+23,All Allowed,23,1
+24,Car & Motorcycle Allowed,3,2
+25,Car & Motorcycle Allowed,4,2
+26,Car & Motorcycle Allowed,6,2
+27,Car & Motorcycle Allowed,2,2
+28,Car & Motorcycle Allowed,8,2
+29,Car & Motorcycle Allowed,9,2
+30,Car & Motorcycle Allowed,10,2
+31,Car & Motorcycle Allowed,11,2
+32,Car & Motorcycle Allowed,12,2
+33,Car & Motorcycle Allowed,17,2
+34,Car & Motorcycle Allowed,18,2
+35,Car & Motorcycle Allowed,19,2
+36,Car & Motorcycle Allowed,13,2
+37,Car & Motorcycle Allowed,15,2
+38,Car & Motorcycle Allowed,16,2
+39,Car & Motorcycle Allowed,20,2
+40,Car & Motorcycle Allowed,23,2
+41,Car & Motorcycle Allowed,22,2
+42,Cycles Allowed,5,3
+43,Bikes Only,10,4
+44,Plane & Helis,7,5
+45,Plane & Helis,14,5

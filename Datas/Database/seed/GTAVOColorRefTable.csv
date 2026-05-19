@@ -1,0 +1,245 @@
+﻿ID,Name,GTA_Color_ID,rendermaterial_id,chameleontype_id,Hex,Hex secondary,Hex tertiary,RGB
+-21,White Lights,-21,9,,#dedeff,,,
+-20,Blue Lights,-20,9,,#0215FF,,,
+-19,Electric Blue Lights,-19,9,,#0353ff,,,
+-18,Mint Green Lights,-18,9,,#00ff8c,,,
+-17,Lime Green Lights,-17,9,,#5eff01,,,
+-16,Yellow Lights,-16,9,,#ffff00,,,
+-15,Golden Shower Lights,-15,9,,#ff9605,,,
+-14,Orange Lights,-14,9,,#ff3e00,,,
+-13,Red Lights,-13,9,,#ff0101,,,
+-12,Pony Pink Lights,-12,9,,#ff3264,,,
+-11,Hot Pink Lights,-11,9,,#ff05be,,,
+-10,Purple Lights,-10,9,,#2301ff,,,
+-9,Blacklight Lights,-9,9,,#0f03ff,,,
+-8,Metallic Saxon Mariner,-8,1,,#3B6796,,,
+-7,Metallic Gasoline Harbor,-7,1,,#455C56,,,
+-6,Metallic Olive Bright Pearl,-6,1,,#2A3625,,,
+-5,Metallic Sunrise Orange Pearl,-5,1,,#3B4654,,,
+-4,Metallic Sunset Cabernet Pearl,-4,1,,#754231,,,
+-3,Metallic Garnet Candy Pearl,-3,1,,#697187,,,
+-2,Metallic Lava Red Pearl,-2,1,,#DE7E00,,,
+-1,Unknown,-1,1,,#000000,,,
+0,Metallic Black,0,1,,#080808,,,"13, 17, 22"
+1,Metallic Graphite Black,1,1,,#0F0F0F,,,"28, 29, 33"
+2,Metallic Black Steal,2,1,,#1C1E21,,,"50, 56, 61"
+3,Metallic Dark Silver,3,1,,#292C2E,,,"69, 75, 79"
+4,Metallic Silver,4,1,,#5A5E66,,,"153, 157, 160"
+5,Metallic Blue Silver,5,1,,#777C87,,,"194, 196, 198"
+6,Metallic Steel Gray,6,1,,#515459,,,"151, 154, 151"
+7,Metallic Shadow Silver,7,1,,#323B47,,,"99, 115, 128"
+8,Metallic Stone Silver,8,1,,#333333,,,"99, 98, 92"
+9,Metallic Midnight Silver,9,1,,#1F2226,,,"60, 63, 71"
+10,Metallic Gun Metal,10,1,,#23292E,,,"68, 78, 84"
+11,Metallic Anthracite Grey,11,1,,#121110,,,"29, 33, 41"
+12,Matte Black,12,2,,#050505,,,"19, 24, 31"
+13,Matte Gray,13,2,,#121212,,,"38, 40, 42"
+14,Matte Light Grey,14,2,,#2F3233,,,"81, 85, 84"
+15,Util Black,15,8,,#080808,,,"21, 25, 33"
+16,Util Black Poly,16,8,,#121212,,,"30, 36, 41"
+17,Util Dark silver,17,8,,#202224,,,"51, 58, 60"
+18,Util Silver,18,8,,#575961,,,"140, 144, 149"
+19,Util Gun Metal,19,8,,#23292E,,,"57, 67, 77"
+20,Util Shadow Silver,20,8,,#323B47,,,"80, 98, 114"
+21,Worn Black,21,7,,#0F1012,,,"30, 35, 47"
+22,Worn Graphite,22,7,,#212121,,,"54, 58, 63"
+23,Worn Silver Grey,23,7,,#5B5D5E,,,"160, 161, 153"
+24,Worn Silver,24,7,,#888A99,,,"211, 211, 211"
+25,Worn Blue Silver,25,7,,#697187,,,"183, 191, 202"
+26,Worn Shadow Silver,26,7,,#3B4654,,,"119, 135, 148"
+27,Metallic Red,27,1,,#690000,,,"192, 14, 26"
+28,Metallic Torino Red,28,1,,#8A0B00,,,"218, 25, 24"
+29,Metallic Formula Red,29,1,,#6B0000,,,"182, 17, 27"
+30,Metallic Blaze Red,30,1,,#611009,,,"165, 30, 35"
+31,Metallic Graceful Red,31,1,,#4A0A0A,,,"123, 26, 34"
+32,Metallic Garnet Red,32,1,,#470E0E,,,"142, 27, 31"
+33,Metallic Desert Red,33,1,,#380C00,,,"111, 24, 24"
+34,Metallic Cabernet Red,34,1,,#26030B,,,"73, 17, 29"
+35,Metallic Candy Red,35,1,,#630012,,,"182, 15, 37"
+36,Metallic Sunrise Orange,36,1,,#802800,,,"212, 74, 23"
+37,Metallic Classic Gold,37,1,,#6E4F2D,,,"194, 148, 79"
+38,Metallic Orange,38,1,,#BD4800,,,"247, 134, 22"
+39,Matte Red,39,2,,#780000,,,"207, 31, 33"
+40,Matte Dark Red,40,2,,#360000,,,"115, 32, 33"
+41,Matte Orange,41,2,,#AB3F00,,,"242, 125, 32"
+42,Matte Yellow,42,2,,#DE7E00,,,"255, 201, 31"
+43,Util Red,43,8,,#520000,,,"156, 16, 22"
+44,Util Bright Red,44,8,,#8C0404,,,"222, 15, 24"
+45,Util Garnet Red,45,8,,#4A1000,,,"143, 30, 23"
+46,Worn Red,46,7,,#592525,,,"169, 71, 68"
+47,Worn Golden Red,47,7,,#754231,,,"177, 108, 81"
+48,Worn Dark Red,48,7,,#210804,,,"55, 28, 37"
+49,Metallic Dark Green,49,1,,#001207,,,"19, 36, 40"
+50,Metallic Racing Green,50,1,,#001A0B,,,"18, 46, 43"
+51,Metallic Sea Green,51,1,,#00211E,,,"18, 56, 60"
+52,Metallic Olive Green,52,1,,#1F261E,,,"49, 66, 63"
+53,Metallic Green,53,1,,#003805,,,"21, 92, 45"
+54,Metallic Gasoline Blue Green,54,1,,#0B4145,,,"27, 103, 112"
+55,Matte Lime Green,55,2,,#418503,,,"102, 184, 31"
+56,Util Dark Green,56,8,,#0F1F15,,,"34, 56, 62"
+57,Util Green,57,8,,#023613,,,"29, 90, 63"
+58,Worn Dark Green,58,7,,#162419,,,"45, 66, 63"
+59,Worn Green,59,7,,#2A3625,,,"69, 89, 75"
+60,Worn Sea Wash,60,7,,#455C56,,,"101, 134, 127"
+61,Metallic Midnight Blue,61,1,,#000D14,,,"34, 46, 70"
+62,Metallic Dark Blue,62,1,,#001029,,,"35, 49, 85"
+63,Metallic Saxony Blue,63,1,,#1C2F4F,,,"48, 76, 126"
+64,Metallic Blue,64,1,,#001B57,,,"71, 87, 143"
+65,Metallic Mariner Blue,65,1,,#3B4E78,,,"99, 123, 167"
+66,Metallic Harbor Blue,66,1,,#272D3B,,,"57, 71, 98"
+67,Metallic Diamond Blue,67,1,,#95B2DB,,,"214, 231, 241"
+68,Metallic Surf Blue,68,1,,#3E627A,,,"118, 175, 190"
+69,Metallic Nautical Blue,69,1,,#1C3140,,,"52, 94, 114"
+70,Metallic Bright Blue,70,1,,#0055C4,,,"11, 156, 241"
+71,Metallic Purple Blue,71,1,,#1A182E,,,"47, 45, 82"
+72,Metallic Spinnaker Blue,72,1,,#161629,,,"40, 44, 77"
+73,Metallic Ultra Blue,73,1,,#0E316D,,,"35, 84, 161"
+74,Metallic Bright Blue,74,1,,#395A83,,,"110, 163, 198"
+75,Util Dark Blue,75,8,,#09142E,,,"17, 37, 82"
+76,Util Midnight Blue,76,8,,#0F1021,,,"27, 32, 62"
+77,Util Blue,77,8,,#152A52,,,"39, 81, 144"
+78,Util Sea Foam Blue,78,8,,#324654,,,"96, 133, 146"
+79,Util Lightning blue,79,8,,#152563,,,"36, 70, 168"
+80,Util Maui Blue Poly,80,8,,#223BA1,,,"66, 113, 225"
+81,Util Bright Blue,81,8,,#1F1FA1,,,"59, 57, 224"
+82,Matte Dark Blue,82,2,,#030E2E,,,"31, 40, 82"
+83,Matte Blue,83,2,,#0F1E73,,,"37, 58, 167"
+84,Matte Midnight Blue,84,2,,#001C32,,,"28, 53, 81"
+85,Worn Dark blue,85,7,,#2A3754,,,"76, 95, 129"
+86,Worn Blue,86,7,,#303C5E,,,"88, 104, 142"
+87,Worn Light blue,87,7,,#3B6796,,,"116, 181, 216"
+88,Metallic Taxi Yellow,88,1,,#F5890F,,,"255, 207, 32"
+89,Metallic Race Yellow,89,1,,#D9A600,,,"251, 226, 18"
+90,Metallic Bronze,90,1,,#4A341B,,,"145, 101, 50"
+91,Metallic Yellow Bird,91,1,,#A2A827,,,"224, 225, 61"
+92,Metallic Lime,92,1,,#568F00,,,"152, 210, 35"
+93,Metallic Champagne,93,1,,#57514B,,,"155, 140, 120"
+94,Metallic Pueblo Beige,94,1,,#291B06,,,"80, 50, 24"
+95,Metallic Dark Ivory,95,1,,#262117,,,"71, 63, 43"
+96,Metallic Choco Brown,96,1,,#120D07,,,"34, 27, 25"
+97,Metallic Golden Brown,97,1,,#332111,,,"101, 63, 35"
+98,Metallic Light Brown,98,1,,#3D3023,,,"119, 92, 62"
+99,Metallic Straw Beige,99,1,,#5E5343,,,"172, 153, 117"
+100,Metallic Moss Brown,100,1,,#37382B,,,"108, 107, 75"
+101,Metallic Biston Brown,101,1,,#221918,,,"64, 46, 43"
+102,Metallic Beechwood,102,1,,#575036,,,"164, 150, 95"
+103,Metallic Dark Beechwood,103,1,,#241309,,,"70, 35, 26"
+104,Metallic Choco Orange,104,1,,#3B1700,,,"117, 43, 25"
+105,Metallic Beach Sand,105,1,,#6E6246,,,"191, 174, 123"
+106,Metallic Sun Bleeched Sand,106,1,,#998D73,,,"223, 213, 178"
+107,Metallic Cream,107,1,,#CFC0A5,,,"247, 237, 213"
+108,Util Brown,108,8,,#1F1709,,,"58, 42, 27"
+109,Util Medium Brown,109,8,,#3D311D,,,"120, 95, 51"
+110,Util Light Brown,110,8,,#665847,,,"181, 160, 121"
+111,Metallic White,111,1,,#F0F0F0,,,"255, 255, 246"
+112,Metallic Frost White,112,1,,#B3B9C9,,,"234, 234, 234"
+113,Worn Honey Beige,113,7,,#615F55,,,"176, 171, 148"
+114,Worn Brown,114,7,,#241E1A,,,"69, 56, 49"
+115,Worn Dark Brown,115,7,,#171413,,,"42, 40, 43"
+116,Worn straw beige,116,7,,#3B372F,,,"114, 108, 87"
+117,Brushed Steel,117,4,,#3B4045,,,"106, 116, 124"
+118,Brushed Black steel,118,4,,#1A1E21,,,"53, 65, 88"
+119,Brushed Aluminium,119,4,,#5E646B,,,"155, 160, 168"
+120,Chrome,120,5,,#000000,,,"88, 112, 161"
+121,Worn Off White,121,7,,#B0B0B0,,,"234, 230, 222"
+122,Util Off White,122,8,,#999999,,,"223, 221, 208"
+123,Worn Orange,123,7,,#B56519,,,"242, 173, 46"
+124,Worn Light Orange,124,7,,#C45C33,,,"249, 164, 88"
+125,Metallic Securicor Green,125,1,,#47783C,,,"131, 197, 102"
+126,Worn Taxi Yellow,126,7,,#BA8425,,,"241, 204, 64"
+127,police car blue,127,1,,#2A77A1,,,"76, 195, 218"
+128,Matte Green,128,2,,#243022,,,"78, 100, 67"
+129,Matte Brown,129,2,,#6B5F54,,,"188, 172, 143"
+130,Worn Orange,130,7,,#C96E34,,,"248, 182, 88"
+131,Matte White,131,2,,#D9D9D9,,,"252, 249, 241"
+132,Worn White,132,7,,#F0F0F0,,,"255, 255, 251"
+133,Worn Olive Army Green,133,7,,#3F4228,,,"129, 132, 76"
+134,Pure White,134,1,,#FFFFFF,,,"255, 255, 255"
+135,Hot Pink,135,1,,#B01259,,,"242, 31, 153"
+136,Salmon pink,136,1,,#F69799,,,"253, 214, 205"
+137,Metallic Vermillion Pink,137,1,,#8F2F55,,,"223, 88, 145"
+138,Orange,138,1,,#C26610,,,"246, 174, 32"
+139,Green,139,1,,#69BD45,,,"176, 238, 110"
+140,Blue,140,1,,#00AEEF,,,"8, 233, 250"
+141,Mettalic Black Blue,141,1,,#000108,,,"10, 12, 23"
+142,Metallic Black Purple,142,1,,#050008,,,"12, 13, 24"
+143,Metallic Black Red,143,1,,#080000,,,"14, 13, 20"
+144,hunter green,144,1,,#565751,,,"159, 158, 138"
+145,Metallic Purple,145,1,,#320642,,,"98, 18, 118"
+146,Metaillic V Dark Blue,146,1,,#00080F,,,"11, 20, 33"
+147,MODSHOP BLACK1,147,1,,#080808,,,"17, 20, 26"
+148,Matte Purple,148,2,,#320642,,,"107, 31, 123"
+149,Matte Dark Purple,149,2,,#050008,,,"30, 29, 34"
+150,Metallic Lava Red,150,1,,#6B0B00,,,"188, 25, 23"
+151,Matte Forest Green,151,2,,#121710,,,"45, 54, 42"
+152,Matte Olive Drab,152,2,,#323325,,,"105, 103, 72"
+153,Matte Desert Brown,153,2,,#3B352D,,,"122, 108, 85"
+154,Matte Desert Tan,154,2,,#706656,,,"195, 180, 146"
+155,Matte Foilage Green,155,2,,#2B302B,,,"90, 99, 82"
+156,DEFAULT ALLOY COLOR,156,1,,#414347,,,"129, 130, 127"
+157,Epsilon Blue,157,1,,#6690B5,,,"175, 214, 228"
+158,Pure Gold,158,4,,#47391B,,,"122, 100, 64"
+159,Brushed Gold,159,4,,#47391B,,,"127, 106, 72"
+160,MP100 GOLD SPEC,160,1,,#FFD859,,,"255, 216, 89"
+161,Anodized Red Pearl,161,6,1,#6d301c,#310a00,,
+162,Anodized Burgundy Pearl,162,6,1,#520d29,#28001e,,
+163,Anodized Purple Pearl,163,6,1,#460b50,#130026,,
+164,Anodized Blue Pearl,164,6,1,#1b1050,#00012e,,
+165,Anodized Green Pearl,165,6,1,#084b27,#002c07,,
+166,Anodized Lime Pearl,166,6,1,#396237,#283f1b,,
+167,Anodized Copper Pearl,167,6,1,#a38158,#4f2d09,,
+168,Anodized Bronze Pearl,168,6,1,#5b5334,#292206,,
+169,Anodized Champagne Pearl,169,6,1,#99927a,#3e3721,,
+170,Anodized Gold Pearl,170,6,1,#ab9c69,#524113,,
+171,Green/Blue Flip,171,6,2,#76711e,#275002,#05171d,
+172,Green/Red Flip,172,6,2,#6e7100,#4b6401,#1c0808,
+173,Green/Brown Flip,173,6,2,#381724,#504807,#280f23,
+174,Green/Turquoise Flip,174,6,2,#1a533c,#03370f,#042737,
+175,Green/Purple Flip,175,6,2,#416744,#27311c,#2c0e37,
+176,Teal/Purple Flip,176,6,2,#053218,#1f4b3b,#362747,
+177,Turquoise/Red Flip,177,6,2,#2a112c,#1b4930,#3a0213,
+178,Turquoise/Purple Flip,178,6,2,#20162d,#1b4931,#261523,
+179,Cyan/Red Flip,179,6,2,#07343c,#48273f,#28132f,
+180,Blue/Pink Flip,180,6,2,#111c46,#49272e,#2d1127,
+181,Blue/Green Flip,181,6,2,#242b54,#000a1f,#051d1b,
+182,Purple/Red Flip,182,6,2,#430075,#15024e,#22011b,
+183,Purple/Green Flip,183,6,2,#5a0074,#240252,#011f1f,
+184,Magenta/Green Flip,184,6,2,#37131f,#434906,#3e0115,
+185,Magenta/Yellow,185,6,2,#2a1310,#645923,#462546,
+186,Burgundy/Green Flip,186,6,2,#1b011b,#47252a,#3d5d29,
+187,Magenta/Cyan Flip,187,6,2,#4e1d3a,#230020,#250139,
+188,Copper/Purple Flip,188,6,2,#4a164d,#170424,#352f0b,
+189,Magenta/Orange Flip,189,6,2,#40002b,#501612,#280124,
+190,Red/Orange Flip,190,6,2,#5f1103,#916102,#1b120f,
+191,Orange/Purple Flip,191,6,2,#d96801,#9d2403,#2e012d,
+192,Orange/Blue Flip,192,6,2,#9d5901,#3e360f,#170d1d,
+193,White/Purple Flip,193,6,2,#868675,#382a26,#2e1137,
+194,Red Rainbow Flip,194,6,2,#45000e,#000038,#00381b,
+195,Blue Rainbow Flip,195,6,2,#45001e,#000039,#00382b,
+196,Dark Green Pearl,196,6,2,#042318,#1f150d,#081106,
+197,Dark Teal Pearl,197,6,2,#091c30,#181a15,#0a0f1b,
+198,Dark Blue Pearl,198,6,2,#010d29,#0e0c10,#090221,
+199,Dark Purple Pearl,199,6,2,#0e1434,#1f111a,#290624,
+200,Oil Slick Pearl,200,6,2,#1c1b17,#3c1a18,#224431,
+201,Light Green Pearl,201,6,2,#79a08c,#8f9393,#8892a9,
+202,Light Blue Pearl,202,6,2,#8abcad,#8f9394,#8892a9,
+203,Light Purple Pearl,203,6,2,#b186c6,#88a58d,#8a9fac,
+204,Light Pink Pearl,204,6,2,#dcbdaf,#88a59d,#8a9fac,
+205,Off White Pearl,205,6,2,#e1dcc5,#88a60d,#8a9fac,
+206,Soft Pink Pearl,206,6,3,#f8b0f7,#0d00ff,#ff002e,
+207,Pastel Yellow Pearl,207,6,3,#f9d9af,#0d00ff,#ff002e,
+208,Pastel Green Pearl,208,6,3,#b2fbec,#0d00ff,#ff002e,
+209,Baby Blue Pearl,209,6,3,#b2c5fa,#0d00ff,#ff002e,
+210,Cream Pearl,210,6,3,#fbfbf7,#0d00ff,#ff002e,
+211,White Prismatic Pearl,211,6,4,#cacaca,,,
+212,Graphite Prismatic Pearl,212,6,4,#707070,,,
+213,Blue Prismatic Pearl,213,6,4,#011b32,,,
+214,Purple Prismatic Pearl,214,6,4,#1a0132,,,
+215,Pink Prismatic Pearl,215,6,4,#a3006f,,,
+216,Red Prismatic Pearl,216,6,4,#770000,,,
+217,Green Prismatic Pearl,217,6,4,#034000,,,
+218,Black Prismatic Pearl,218,6,4,#000000,,,
+219,Black Oil Spill Prismatic,219,6,6,#090e08,#ff0000,#005aff,
+220,Black Rainbow Prismatic,220,6,6,#070e0c,#deff00,#c600ff,
+221,Dark Holographic,221,6,5,#010102,,,
+222,Light Holographic,222,6,5,#c4c0c5,,,

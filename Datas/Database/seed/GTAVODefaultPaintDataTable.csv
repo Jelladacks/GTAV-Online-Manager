@@ -1,0 +1,252 @@
+﻿ID,Fullname,Name,Category,primary_color_id,primary_render_id,secondary_color_id,secondary_render_id,pearl_color_id
+1,Unknown,Unknown,1,-1,1,,,-1
+2,Chrome,Chrome,5,120,5,,,
+3,Classic Black,Black,1,0,1,,,
+4,Classic Carbon Black,Carbon Black,1,147,1,,,
+5,Classic Graphite,Graphite,1,1,1,,,
+6,Classic Anthracite Black ,Anthracite Black ,1,11,1,,,
+7,Classic Black Steel ,Black Steel ,1,2,1,,,
+8,Classic Dark Steel ,Dark Steel ,1,3,1,,,2
+9,Classic Silver ,Silver ,1,4,1,,,4
+10,Classic Bluish Silver ,Bluish Silver ,1,5,1,,,5
+11,Classic Rolled Steel ,Rolled Steel ,1,6,1,,,
+12,Classic Shadow Silver ,Shadow Silver ,1,7,1,,,
+13,Classic Stone Silver ,Stone Silver ,1,8,1,,,
+14,Classic Midnight Silver ,Midnight Silver ,1,9,1,,,
+15,Classic Cast Iron Silver ,Cast Iron Silver ,1,10,1,,,
+16,Classic Red ,Red ,1,27,1,,,
+17,Classic Torino Red ,Torino Red ,1,28,1,,,
+18,Classic Formula Red ,Formula Red ,1,29,1,,,
+19,Classic Lava Red ,Lava Red ,1,150,1,,,
+20,Classic Blaze Red ,Blaze Red ,1,30,1,,,
+21,Classic Grace Red ,Grace Red ,1,31,1,,,
+22,Classic Garnet Red ,Garnet Red ,1,32,1,,,
+23,Classic Sunset Red ,Sunset Red ,1,33,1,,,
+24,Classic Cabernet Red ,Cabernet Red ,1,34,1,,,
+25,Classic Wine Red ,Wine Red ,1,143,1,,,
+26,Classic Candy Red ,Candy Red ,1,35,1,,,
+27,Classic Hot Pink ,Hot Pink ,1,135,1,,,
+28,Classic Pfister Pink ,Pfister Pink ,1,137,1,,,
+29,Classic Salmon Pink ,Salmon Pink ,1,136,1,,,
+30,Classic Sunrise Orange ,Sunrise Orange ,1,36,1,,,
+31,Classic Orange ,Orange ,1,38,1,,,
+32,Classic Bright Orange ,Bright Orange ,1,138,1,,,
+33,Classic Gold ,Gold ,1,99,1,,,99
+34,Classic Bronze ,Bronze ,1,90,1,,,102
+35,Classic Yellow ,Yellow ,1,88,1,,,
+36,Classic Race Yellow ,Race Yellow ,1,89,1,,,
+37,Classic Dew Yellow ,Dew Yellow ,1,91,1,,,
+38,Classic Dark Green ,Dark Green ,1,49,1,,,
+39,Classic Racing Green ,Racing Green ,1,50,1,,,
+40,Classic Sea Green ,Sea Green ,1,51,1,,,
+41,Classic Olive Green ,Olive Green ,1,52,1,,,
+42,Classic Bright Green ,Bright Green ,1,53,1,,,
+43,Classic Gasoline Green ,Gasoline Green ,1,54,1,,,
+44,Classic Lime Green ,Lime Green ,1,92,1,,,
+45,Classic Midnight Blue ,Midnight Blue ,1,141,1,,,
+46,Classic Galaxy Blue ,Galaxy Blue ,1,61,1,,,
+47,Classic Dark Blue ,Dark Blue ,1,62,1,,,
+48,Classic Saxon Blue ,Saxon Blue ,1,63,1,,,
+49,Classic Blue ,Blue ,1,64,1,,,
+50,Classic Mariner Blue ,Mariner Blue ,1,65,1,,,
+51,Classic Harbor Blue ,Harbor Blue ,1,66,1,,,
+52,Classic Diamond Blue ,Diamond Blue ,1,67,1,,,
+53,Classic Surf Blue ,Surf Blue ,1,68,1,,,
+54,Classic Nautical Blue ,Nautical Blue ,1,69,1,,,
+55,Classic Racing Blue ,Racing Blue ,1,73,1,,,
+56,Classic Ultra Blue ,Ultra Blue ,1,70,1,,,
+57,Classic Light Blue ,Light Blue ,1,74,1,,,
+58,Classic Chocolate Brown ,Chocolate Brown ,1,96,1,,,
+59,Classic Bison Brown ,Bison Brown ,1,101,1,,,
+60,Classic Creek Brown ,Creek Brown ,1,95,1,,,
+61,Classic Feltzer Brown ,Feltzer Brown ,1,94,1,,,
+62,Classic Maple Brown ,Maple Brown ,1,97,1,,,
+63,Classic Beechwood Brown ,Beechwood Brown ,1,103,1,,,
+64,Classic Sienna Brown ,Sienna Brown ,1,104,1,,,
+65,Classic Saddle Brown ,Saddle Brown ,1,98,1,,,
+66,Classic Moss Brown ,Moss Brown ,1,100,1,,,
+67,Classic Woodbeech Brown ,Woodbeech Brown ,1,102,1,,,
+68,Classic Straw Brown ,Straw Brown ,1,99,1,,,
+69,Classic Sandy Brown ,Sandy Brown ,1,105,1,,,
+70,Classic Bleached Brown ,Bleached Brown ,1,106,1,,,
+71,Classic Schafter Purple ,Schafter Purple ,1,71,1,,,
+72,Classic Spinnaker Purple ,Spinnaker Purple ,1,72,1,,,
+73,Classic Midnight Purple ,Midnight Purple ,1,142,1,,,
+74,Classic Bright Purple ,Bright Purple ,1,145,1,,,
+75,Classic Cream ,Cream ,1,107,1,,,
+76,Classic Ice White ,Ice White ,1,111,1,,,
+77,Classic Frost White ,Frost White ,1,112,1,,,
+78,Matte Black ,Black ,2,12,2,,,
+79,Matte Gray ,Gray ,2,13,2,,,
+80,Matte Light Gray ,Light Gray ,2,14,2,,,
+81,Matte Ice White ,Ice White ,2,131,2,,,
+82,Matte Blue ,Blue ,2,83,2,,,
+83,Matte Dark Blue ,Dark Blue ,2,82,2,,,
+84,Matte Midnight Blue ,Midnight Blue ,2,84,2,,,
+85,Matte Midnight Purple ,Midnight Purple ,2,149,2,,,
+86,Matte Schafter Purple ,Schafter Purple ,2,148,2,,,
+87,Matte Red ,Red ,2,39,2,,,
+88,Matte Dark Red ,Dark Red ,2,40,2,,,
+89,Matte Orange ,Orange ,2,41,2,,,
+90,Matte Yellow ,Yellow ,2,42,2,,,
+91,Matte Lime Green ,Lime Green ,2,55,2,,,
+92,Matte Green ,Green ,2,128,2,,,
+93,Matte Forest Green ,Matte Forest Green ,2,151,2,,,
+94,Matte Foliage Green ,Foliage Green ,2,155,2,,,
+95,Matte Olive Drab ,Olive Drab ,2,152,2,,,
+96,Matte Dark Earth ,Dark Earth ,2,153,2,,,
+97,Matte Desert Tan ,Desert Tan ,2,154,2,,,
+98,Metallic Black ,Black ,3,0,3,,,10
+99,Metallic Carbon Black ,Carbon Black ,3,147,3,,,4
+100,Metallic Graphite ,Graphite ,3,1,3,,,5
+101,Metallic Anthracite Black ,Anthracite Black ,3,11,3,,,2
+102,Metallic Black Steel ,Black Steel ,3,2,3,,,5
+103,Metallic Dark Steel ,Dark Steel ,3,3,3,,,6
+104,Metallic Silver ,Silver ,3,4,3,,,111
+105,Metallic Bluish Silver ,Bluish Silver ,3,5,3,,,111
+106,Metallic Rolled Steel ,Rolled Steel ,3,6,3,,,4
+107,Metallic Shadow Silver ,Shadow Silver ,3,7,3,,,5
+108,Metallic Stone Silver ,Stone Silver ,3,8,3,,,5
+109,Metallic Midnight Silver ,Midnight Silver ,3,9,3,,,7
+110,Metallic Cast Iron Silver ,Cast Iron Silver ,3,10,3,,,7
+111,Metallic Red ,Red ,3,27,3,,,36
+112,Metallic Torino Red ,Torino Red ,3,28,3,,,28
+113,Metallic Formula Red ,Formula Red ,3,29,3,,,28
+114,Metallic Lava Red ,Lava Red ,3,150,3,,,-2
+115,Metallic Blaze Red ,Blaze Red ,3,30,3,,,36
+116,Metallic Grace Red ,Grace Red ,3,31,3,,,27
+117,Metallic Garnet Red ,Garnet Red ,3,32,3,,,-3
+118,Metallic Sunset Red ,Sunset Red ,3,33,3,,,-4
+119,Metallic Cabernet Red ,Cabernet Red ,3,34,3,,,-4
+120,Metallic Wine Red ,Wine Red ,3,143,3,,,31
+121,Metallic Candy Red ,Candy Red ,3,35,3,,,-3
+122,Metallic Hot Pink ,Hot Pink ,3,135,3,,,135
+123,Metallic Pfister Pink ,Pfister Pink ,3,137,3,,,3
+124,Metallic Salmon Pink ,Salmon Pink ,3,136,3,,,5
+125,Metallic Sunrise Orange ,Sunrise Orange ,3,36,3,,,-5
+126,Metallic Orange ,Orange ,3,38,3,,,99
+127,Metallic Bright Orange ,Bright Orange ,3,138,3,,,89
+128,Metallic Gold ,Gold ,3,99,3,,,106
+129,Metallic Bronze ,Bronze ,3,90,3,,,102
+130,Metallic Yellow ,Yellow ,3,88,3,,,88
+131,Metallic Race Yellow ,Race Yellow ,3,89,3,,,88
+132,Metallic Dew Yellow ,Dew Yellow ,3,91,3,,,91
+133,Metallic Dark Green ,Dark Green ,3,49,3,,,52
+134,Metallic Racing Green ,Racing Green ,3,50,3,,,53
+135,Metallic Sea Green ,Sea Green ,3,51,3,,,66
+136,Metallic Olive Green ,Olive Green ,3,52,3,,,-6
+137,Metallic Bright Green ,Bright Green ,3,53,3,,,-6
+138,Metallic Gasoline Green ,Gasoline Green ,3,54,3,,,-7
+139,Metallic Lime Green ,Lime Green ,3,92,3,,,92
+140,Metallic Midnight Blue ,Midnight Blue ,3,141,3,,,73
+141,Metallic Galaxy Blue ,Galaxy Blue ,3,61,3,,,63
+142,Metallic Dark Blue ,Dark Blue ,3,62,3,,,68
+143,Metallic Saxon Blue ,Saxon Blue ,3,63,3,,,-8
+144,Metallic Blue ,Blue ,3,64,3,,,68
+145,Metallic Mariner Blue ,Mariner Blue ,3,65,3,,,-8
+146,Metallic Harbor Blue ,Harbor Blue ,3,66,3,,,-7
+147,Metallic Diamond Blue ,Diamond Blue ,3,67,3,,,67
+148,Metallic Surf Blue ,Surf Blue ,3,68,3,,,68
+149,Metallic Nautical Blue ,Nautical Blue ,3,69,3,,,74
+150,Metallic Racing Blue ,Racing Blue ,3,73,3,,,73
+151,Metallic Ultra Blue ,Ultra Blue ,3,70,3,,,70
+152,Metallic Light Blue ,Light Blue ,3,74,3,,,74
+153,Metallic Chocolate Brown ,Chocolate Brown ,3,96,3,,,95
+154,Metallic Bison Brown ,Bison Brown ,3,101,3,,,95
+155,Metallic Creek Brown ,Creek Brown ,3,95,3,,,97
+156,Metallic Feltzer Brown ,Feltzer Brown ,3,94,3,,,104
+157,Metallic Maple Brown ,Maple Brown ,3,97,3,,,98
+158,Metallic Beechwood Brown ,Beechwood Brown ,3,103,3,,,104
+159,Metallic Sienna Brown ,Sienna Brown ,3,104,3,,,104
+160,Metallic Saddle Brown ,Saddle Brown ,3,98,3,,,95
+161,Metallic Moss Brown ,Moss Brown ,3,100,3,,,100
+162,Metallic Woodbeech Brown ,Woodbeech Brown ,3,102,3,,,105
+163,Metallic Straw Brown ,Straw Brown ,3,99,3,,,106
+164,Metallic Sandy Brown ,Sandy Brown ,3,105,3,,,105
+165,Metallic Bleached Brown ,Bleached Brown ,3,106,3,,,106
+166,Metallic Schafter Purple ,Schafter Purple ,3,71,3,,,145
+167,Metallic Spinnaker Purple ,Spinnaker Purple ,3,72,3,,,64
+168,Metallic Midnight Purple ,Midnight Purple ,3,142,3,,,145
+169,Metallic Bright Purple ,Bright Purple ,3,145,3,,,74
+170,Metallic Cream ,Cream ,3,107,3,,,107
+171,Metallic Ice White ,Ice White ,3,111,3,,,0
+172,Metallic Frost White ,Frost White ,3,112,3,,,0
+173,Brushed Steel ,Brushed Steel ,4,117,4,,,
+174,Brushed Black Steel ,Brushed Black Steel ,4,118,4,,,
+175,Brushed Aluminum ,Brushed Aluminum ,4,119,4,,,
+176,Pure Gold ,Pure Gold ,4,158,4,,,160
+177,Brushed Gold ,Brushed Gold ,4,159,4,,,160
+178,Anodized Red Pearl ,Anodized Red Pearl ,6,161,6,,,161
+179,Anodized Blue Pearl ,Anodized Blue Pearl ,6,164,6,,,164
+180,Anodized Gold Pearl ,Anodized Gold Pearl ,6,170,6,,,160
+181,Green/Blue Flip ,Green/Blue Flip ,6,171,6,,,92
+182,Purple/Green Flip ,Purple/Green Flip ,6,183,6,,,92
+183,Orange/Purple Flip ,Orange/Purple Flip ,6,191,6,,,89
+184,Dark Purple Pearl ,Dark Purple Pearl ,6,199,6,,,203
+185,Baby Blue Pearl ,Baby Blue Pearl ,6,209,6,,,208
+186,Red Prismatic Pearl ,Red Prismatic Pearl ,6,216,6,,,216
+187,Black Prismatic Pearl ,Black Prismatic Pearl ,6,218,6,,,218
+188,Anodized Purple Pearl ,Anodized Purple Pearl ,6,163,6,,,163
+189,Anodized Copper Pearl ,Anodized Copper Pearl ,6,167,6,,,188
+190,Anodized Bronze Pearl,Anodized Bronze Pearl,6,168,6,,,192
+191,Anodized Champagne Pearl,Anodized Champagne Pearl,6,169,6,,,169
+192,Green/Red Flip,Green/Red Flip,6,172,6,,,92
+193,Turquoise/Purple Flip,Turquoise/Purple Flip,6,178,6,,,92
+194,Blue/Pink Flip ,Blue/Pink Flip ,6,180,6,,,135
+195,Blue/Green Flip,Blue/Green Flip,6,181,6,,,145
+196,Magenta/Green Flip,Magenta/Green Flip,6,184,6,,,135
+197,Burgundy/Green Flip ,Burgundy/Green Flip ,6,186,6,,,27
+198,Magenta/Orange Flip,Magenta/Orange Flip,6,189,6,,,38
+199,Red/Orange Flip ,Red/Orange Flip ,6,190,6,,,38
+200,Orange/Blue Flip ,Orange/Blue Flip ,6,192,6,,,27
+201,White/Purple Flip,White/Purple Flip,6,193,6,,,135
+202,Red Rainbow Flip,Red Rainbow Flip,6,194,6,,,135
+203,Blue Rainbow Flip ,Blue Rainbow Flip ,6,195,6,,,92
+204,Dark Green Pearl ,Dark Green Pearl ,6,196,6,,,202
+205,Dark Blue Pearl ,Dark Blue Pearl ,6,198,6,,,202
+206,Oil Slick Pearl ,Oil Slick Pearl ,6,200,6,,,204
+207,Light Blue Pearl,Light Blue Pearl,6,202,6,,,209
+208,Off White Pearl ,Off White Pearl ,6,205,6,,,210
+209,Soft Pink Pearl ,Soft Pink Pearl ,6,206,6,,,204
+210,Pastel Yellow Pearl ,Pastel Yellow Pearl ,6,207,6,,,205
+211,Pastel Green Pearl ,Pastel Green Pearl ,6,208,6,,,207
+212,Cream Pearl,Cream Pearl,6,210,6,,,205
+213,White Prismatic Pearl ,White Prismatic Pearl ,6,211,6,,,211
+214,Graphite Prismatic Pearl,Graphite Prismatic Pearl,6,212,6,,,211
+215,Purple Prismatic Pearl ,Purple Prismatic Pearl ,6,214,6,,,145
+216,Pink Prismatic Pearl ,Pink Prismatic Pearl ,6,215,6,,,214
+217,Green Prismatic Pearl ,Green Prismatic Pearl ,6,217,6,,,217
+218,Black Oil Spill Prismatic ,Black Oil Spill Prismatic ,6,219,6,,,220
+219,Black Rainbow Prismatic ,Black Rainbow Prismatic ,6,220,6,,,219
+220,Dark Holographic ,Dark Holographic ,6,221,6,,,222
+221,Light Holographic ,Light Holographic ,6,222,6,,,222
+222,Light Green Pearl,Light Green Pearl,6,201,6,,,208
+223,Light Purple Pearl,Light Purple Pearl,6,203,6,,,206
+224,Anodized Burgundy Pearl,Anodized Burgundy Pearl,6,162,6,,,161
+225,Anodized Green Pearl,Anodized Green Pearl,6,165,6,,,166
+226,Anodized Lime Pearl,Anodized Lime Pearl,6,166,6,,,166
+227,Green/Brown Flip,Green/Brown Flip,6,173,6,,,138
+228,Green/Purple Flip,Green/Purple Flip,6,175,6,,,138
+229,Teal/Purple Flip,Teal/Purple Flip,6,176,6,,,138
+230,Turquoise/Red Flip,Turquoise/Red Flip,6,177,6,,,92
+231,Cyan/Red Flip,Cyan/Red Flip,6,179,6,,,92
+232,Purple/Red Flip,Purple/Red Flip,6,182,6,,,31
+233,Magenta/Yellow Flip,Magenta/Yellow Flip,6,185,6,,,135
+234,Magenta/Cyan Flip,Magenta/Cyan Flip,6,187,6,,,31
+235,Copper/Purple Flip,Copper/Purple Flip,6,188,6,,,31
+236,Dark Teal Pearl,Dark Teal Pearl,6,197,6,,,202
+237,Light Pink Pearl,Light Pink Pearl,6,204,6,,,205
+238,Blue Prismatic Pearl,Blue Prismatic Pearl,6,213,6,,,213
+239,White Lights,White Lights,9,-21,9,,,
+240,Blue Lights,Blue Lights,9,-20,9,,,
+241,Electric Blue Lights,Electric Blue Lights,9,-19,9,,,
+242,Mint Green Lights,Mint Green Lights,9,-18,9,,,
+243,Lime Green Lights,Lime Green Lights,9,-17,9,,,
+244,Yellow Lights,Yellow Lights,9,-16,9,,,
+245,Golden Shower Lights,Golden Shower Lights,9,-15,9,,,
+246,Orange Lights,Orange Lights,9,-14,9,,,
+247,Red Lights,Red Lights,9,-13,9,,,
+248,Pony Pink Lights,Pony Pink Lights,9,-12,9,,,
+249,Hot Pink Lights,Hot Pink Lights,9,-11,9,,,
+250,Purple Lights,Purple Lights,9,-10,9,,,
+251,Blacklight Lights,Blacklight Lights,9,-9,9,,,

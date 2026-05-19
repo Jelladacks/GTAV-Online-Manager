@@ -1,0 +1,82 @@
+﻿ID,Name,MaxOwned,Abstract,Hidden,Parent_ID,Unchangeable
+0,Temporary,1,0,1,,1
+1,Pegasus,1,0,1,,1
+2,Low End Apartment,,0,0,5,0
+3,Medium Apartment,,0,0,5,0
+4,High End Apartment,,0,0,5,0
+5,Apartments,10,1,0,,0
+6,High End Updated Interior Apartment,,0,0,5,0
+7,High End Custom Interior Apartment,,0,0,5,0
+8,Stilt Apartment,,0,0,5,0
+9,Low End Garage,,0,0,5,0
+10,Medium Garage,,0,0,5,0
+11,High End Garage,,0,0,5,0
+12,Yacht,1,0,0,,0
+73,Special Cargo Warehouses,5,1,0,,0
+14,Large Special Cargo Warehouse,,0,0,73,0
+15,Medium Special Cargo Warehouse,,0,0,73,0
+16,Small Special Cargo Warehouse,,0,0,73,0
+17,Executive Offices,1,1,0,,0
+18,Executive Office Garages,4,1,0,,0
+19,CEO Office Garage Level,3,0,0,18,1
+20,CEO Office Garage: Level 2,1,0,1,18,1
+21,CEO Office Garage: Level 3,1,0,1,18,1
+22,Cocaine Lockups,1,0,0,72,0
+23,Methamphetamine Lab,1,0,0,72,0
+24,Counterfeit Cash Factory,1,0,0,72,0
+25,Weed Farm,1,0,0,72,0
+26,Document Forgery,1,0,0,72,0
+27,MC Clubhouses,1,1,0,,0
+28,Vehicle Warehouses,1,0,0,,0
+29,Bunkers,1,0,0,,0
+30,Mobile Operations Center,1,0,0,48,1
+31,Hangars,1,1,0,,0
+32,Aircraft Slot 1,1,0,1,31,1
+33,Aircraft Slot 2,1,0,1,31,1
+34,Facilities,1,0,0,,0
+35,Avenger,1,0,0,48,1
+36,Nightclubs,1,1,0,,0
+37,Nightclub Garages,4,1,1,,1
+38,Nightclub Garage - 2° Floor,1,0,1,37,1
+39,Nightclub Garage - 3° Floor,1,0,1,37,1
+40,Nightclub Garage - 4° Floor,1,0,1,37,1
+41,Terrorbyte,1,0,0,48,1
+42,Maze Bank Arena Workshop,3,1,0,,1
+43,Arena Workshop,1,0,0,42,1
+44,Arena Garage Floor,2,0,0,42,1
+45,Arena Garage Floor B2,1,0,1,42,1
+46,Casino Penthouse,1,0,0,,1
+47,Retro Arcades,1,1,0,,0
+48,Large Vehicle Properties,10,1,0,,1
+49,Kosatka Submarine,1,0,0,48,1
+50,Auto Shops,1,0,0,,0
+51,Agencies,1,0,0,,0
+52,Acid Lab,1,0,0,48,1
+53,Eclipse Blvd Garage,5,1,0,,1
+54,Eclipse Blvd Garage Slot,5,0,0,53,1
+55,Eclipse Blvd Garage 2nd Floor,1,0,1,53,1
+56,Eclipse Blvd Garage 3rd Floor,1,0,1,53,1
+57,Eclipse Blvd Garage 4th Floor,1,0,1,53,1
+58,Eclipse Blvd Garage 5th Floor,1,0,1,53,1
+59,Salvage Yards,1,0,0,,0
+101,The Vinewood Club Garage,1,1,0,,1
+102,The Vinewood Club Garage 1st Floor,1,0,1,100,1
+103,The Vinewood Club Garage 2nd Floor,1,0,1,100,1
+104,The Vinewood Club Garage 3rd Floor,1,0,1,100,1
+105,The Vinewood Club Garage 4th Floor,1,0,1,100,1
+106,The Vinewood Club Garage 5th Floor,1,0,1,100,1
+60,Bail Enforcement Office,1,0,0,,0
+61,Garment Factory,1,0,0,,1
+62,McKenzie Field Hangar,1,0,0,,1
+63,Money Fronts,3,1,0,,1
+64,Hands On Car Wash,1,0,0,63,1
+65,Smoke on the Water,1,0,0,63,1
+66,Higgins Helitours,1,0,0,63,1
+67,Mansions,3,1,0,,1
+68,Office Garage Custom Auto Shop,1,0,0,18,1
+69,single-Story Clubhouse,,0,0,27,0
+70,two-Story Clubhouse,,0,0,27,0
+71,Arcade Garage,1,0,1,,1
+72,MC Businesses,5,1,0,,0
+74,Nightclub Garage - 1° Floor,1,0,1,37,1
+100,Inventory,1,0,1,,1

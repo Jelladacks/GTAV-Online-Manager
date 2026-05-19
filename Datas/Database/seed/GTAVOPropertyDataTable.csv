@@ -1,0 +1,258 @@
+﻿ID,Name,Type_ID,Price
+0,Temporary,0,0
+1,Pegasus,1,0
+2,"2143 Las Lagunas Boulevard, Apt 9",2,115000
+3,"0069 Cougar Avenue, Apt 19",2,112000
+4,"1237 Prosperity Street, Apt 21",2,105000
+5,"1561 San Vitas Street, Apt 2",2,"99,000"
+6,"1115 Boulevard Del Perro, Apt 18",2,"93,000"
+7,"2057 Vespucci Boulevard, Apt 1",2,"87,000"
+8,"0112 South Rockford Drive, Apt 13",2,"80,000"
+9,0232 Paleto Boulevard,2,"121,000"
+10,140 Zancudo Avenue,2,"120,000"
+11,1893 Grapeseed Avenue,2,"118,000"
+12,"0115 Bay City Avenue, Apt 45",3,"150,000"
+13,"0184 Milton Road, Apt 13",3,"146,000"
+14,0504 South Mo Milton Drive,3,"141,000"
+15,0325 South Rockford Drive,3,"137,000"
+16,"Dream Tower, Apt 15",3,134000
+17,"1162 Power Street, Apt 3",3,130000
+18,"0605 Spanish Avenue, Apt 1",3,128000
+19,"0604 Las Lagunas Boulevard, Apt 4",3,126000
+20,"The Royale, Apt 19",3,125000
+21,4 Hangman Ave,3,175000
+22,4401 Procopio Drive,3,165000
+23,4584 Procopio Drive,3,155000
+24,12 Sustancia Road,3,143000
+25,"Eclipse Towers, Apt 31",4,400000
+26,"Eclipse Towers, Apt 40",4,391000
+27,"Eclipse Towers, Apt 5",4,382000
+28,"Eclipse Towers, Apt 9",4,373000
+29,"Weazel Plaza, Apt 101",4,335000
+30,"Weazel Plaza, Apt 70",4,319000
+31,"Weazel Plaza, Apt 26",4,304000
+32,"Tinsel Towers, Apt 29",4,286000
+33,"Tinsel Towers, Apt 45",4,270000
+34,"Richards Majestic, Apt 51",4,253000
+35,"4 Integrity Way, Apt. 35",4,247000
+36,Richards Majestic Apt. 4,4,241000
+37,"4 Integrity Way, Apt. 30",4,235000
+38,"3 Alta Street Tower, Apt 57",4,223000
+39,"3 Alta Street Tower, Apt 10",4,217000
+40,"Del Perro Heights, Apt 20",4,205000
+41,"Del Perro Heights, Apt. 7",4,200000
+42,"Eclipse Towers, Apt 3",6,500000
+43,"Tinsel Towers, Apt 42",6,492000
+44,"Richards Majestic, Apt. 2",6,484000
+45,"4 Integrity Way, Apt. 28",6,476000
+46,"Del Perro Heights, Apt. 4",6,468000
+47,"Eclipse Towers, Penthouse Suite 3",7,1100000
+48,"Eclipse Towers, Penthouse Suite 1",7,985000
+49,"Eclipse Towers, Penthouse Suite 2",7,905000
+50,3655 Wild Oats Drive,8,800000
+51,2044 North Conker Avenue,8,762000
+52,2045 North Conker Avenue,8,727000
+53,2862 Hillcrest Avenue,8,705000
+54,2868 Hillcrest Avenue,8,672000
+55,2117 Milton Road,8,608000
+56,2874 Hillcrest Avenue,8,571000
+57,2866 Hillcrest Avenue,8,525000
+58,3677 Whispymound Drive,8,478000
+59,2113 Mad Wayne Thunder Drive,8,449000
+60,0897 Mirror Park Boulevard,9,35000
+61,Garage Innocence Boulevard,9,34000
+62,634 Boulevard Del Perro,9,33500
+63,12 Little Bighorn Avenue,9,32000
+64,1920 Senora Way,9,32000
+65,2000 Great Ocean Highway,9,31500
+66,0754 Roy Lowenstein Boulevard,9,29500
+67,197 Route 68,9,29000
+68,1200 Route 68,9,28000
+69,1932 Grapeseed Avenue,9,27500
+70,142 Paleto Boulevard,9,26500
+71,1 Strawberry Avenue,9,26000
+72,"Popular Street, Unit 124",9,25000
+73,0552 Roy Lowenstein Boulevard,10,80000
+74,"Popular Street, Unit 14",10,77500
+75,1905 Davis Avenue,10,75000
+76,0432 Davis Avenue,10,72500
+77,"Olympic Freeway, Unit 1",10,70000
+78,4531 Dry Dock Street,10,67500
+79,8754 Route 68,10,65000
+80,870 Route 68 Approach,10,62500
+81,0120 Murrieta Heights,11,150000
+82,"Popular Street, Unit 2",11,142500
+83,331 Supply Street,11,135000
+84,"Greenwich Parkway, Unit 76",11,120000
+85,1337 Exceptionalists Way,11,112500
+86,1623 South Shambles Street,11,105000
+87,The Aquarius Yacht,12,8000000
+88,The Pisces Yacht,12,7000000
+89,The Orion Yacht,12,6000000
+90,Cypress Warehouses,14,3265000
+91,Walker & Sons Warehouse,14,3040000
+92,Bilgeco Warehouse,14,2825000
+93,Logistics Depot,14,2600000
+94,Xero Gas Factory,14,2365000
+95,West Vinewood Backlot,14,2135000
+96,Wholesale Furniture,14,1900000
+97,Railyard Warehouse,15,1017000
+98,Old Power Station,15,1000000
+99,LS Marine Building 3,15,994000
+100,Disused Factory Outlet,15,971000
+101,Discount Retail Unit,15,948000
+102,Fridgit Annexe,15,925000
+103,Derriere Lingerie Backlot,15,902000
+104,GEE Warehouse,15,880000
+105,Foreclosed Garage,16,400000
+106,Pier 400 Utility Building,16,392000
+107,Pacific Bait Storage,16,376000
+108,White Widow Garage,16,360000
+109,Celltowa Unit,16,318000
+110,Convenience Store Lockup,16,250000
+111,Maze Bank Tower Office,17,4000000
+112,Lombank West Office,17,3100000
+113,Arcadius Business Center Office,17,2250000
+114,Maze Bank West Office,17,1000000
+115,Darnell Bros Warehouse,14,3500000
+116,CEO Office Garage: Level 1,19,"1,150,000"
+117,CEO Office Garage: Level 2,19,"855,000"
+118,CEO Office Garage: Level 3,19,"745,000"
+119,Cocaine Lockup Morningwood,22,1852500
+120,Methamphetamine Lab El Burro Heights,23,1729000
+121,Counterfeit Cash Factory Vespucci Canals,24,1605000
+122,Cocaine Lockup Elysian Island,22,1462500
+123,Methamphetamine Lab Terminal,23,1365000
+124,Weed Farm Downtown Vinewood,25,1358500
+125,Counterfeit Cash Factory Cypress Flats,24,1267500
+126,Document Forgery Office Textile City,26,1235000
+127,Weed Farm Elysian Island,25,1072500
+128,Document Forgery Office Elysian Island,26,975000
+129,Cocaine Lockup Paleto Bay,22,1098000
+130,Methamphetamine Lab Paleto Bay,23,1024800
+131,Cocaine Lockup Alamo Sea,22,975000
+132,Counterfeit Cash Factory Paleto Bay,24,951600
+133,Methamphetamine Lab Grand Senora Desert,23,910000
+134,Counterfeit Cash Factory Grand Senora Desert,24,845000
+135,Weed Farm Mount Chiliad,25,805200
+136,Document Forgery Office Paleto Bay,26,732000
+137,Weed Farm San Chianski Mountain Range,25,715000
+138,Document Forgery Office Grapeseed,26,650000
+139,Hawick Clubhouse,70,495000
+140,Downtown Vinewood Clubhouse,70,472000
+141,Pillbox Hill Clubhouse,69,455000
+142,La Mesa Clubhouse,70,449000
+143,Rancho Clubhouse,69,420000
+144,Vespucci Beach Clubhouse,70,395000
+145,Del Perro Beach Clubhouse,69,365000
+146,Paleto Bay Clubhouse 2,70,250000
+147,Paleto Bay Clubhouse 1,69,242000
+148,Grapeseed Clubhouse,70,225000
+149,Sandy Shores Clubhouse,69,210000
+150,Great Chaparral Clubhouse,69,200000
+151,Murrieta Heights Vehicle Warehouse,28,2850000
+152,La Puerta Vehicle Warehouse,28,2735000
+153,Cypress Flats Vehicle Warehouse,28,2675000
+154,LSIA Vehicle Warehouse 2,28,2300000
+155,LSIA Vehicle Warehouse,28,2170000
+156,Elysian Island Vehicle Warehouse,28,1950000
+157,El Burro Heights Vehicle Warehouse,28,1635000
+158,La Mesa Vehicle Warehouse,28,1500000
+159,Davis Vehicle Warehouse,28,2495000
+160,Farmhouse Bunker,29,2375000
+161,Thomson Scrapyard Bunker,29,2290000
+162,Smoke Tree Road Bunker,29,2205000
+163,Grand Senora Desert Bunker,29,2120000
+164,Grand Senora Oilfields Bunker,29,2035000
+165,Route 68 Bunker,29,1950000
+166,Grapeseed Bunker,29,1750000
+167,Chumash Bunker,29,1650000
+168,Lago Zancudo Bunker,29,1550000
+169,Raton Canyon Bunker,29,1450000
+170,Paleto Forest Bunker,29,1165000
+171,Mobile Operations Center (MOC),30,
+172,Fort Zancudo Hangar A2,31,3250000
+173,Fort Zancudo Hangar 3499,31,2650000
+174,Fort Zancudo Hangar 3497,31,2085000
+175,LSIA Hangar 1,31,1525000
+176,LSIA Hangar A17,31,1200000
+177,Land Act Reservoir Facility,34,2950000
+178,Sandy Shores Facility,34,2740000
+179,Grand Senora Desert Facility,34,2525000
+180,Route 68 Facility,34,2312500
+181,Zancudo River Facility,34,2100000
+182,RON Alternates Wind Farm Facility,34,1855000
+183,Lago Zancudo Facility,34,1670000
+184,Mount Gordo Facility,34,1465000
+185,Paleto Bay Facility,34,1250000
+186,Avenger,35,
+187,West Vinewood Nightclub,36,1700000
+188,Del Perro Nightclub,36,1645000
+189,LSIA Nightclub,36,1135000
+190,Elysian Island Nightclub,36,1080000
+191,Cypress Flats Nightclub,36,1370000
+192,Vespucci Canals Nightclub,36,1320000
+193,Strawberry Nightclub,36,1525000
+194,La Mesa Nightclub,36,1500000
+195,Mission Row Nightclub,36,1440000
+196,Downtown Vinewood Nightclub,36,1670000
+197,Terrorbyte,41,
+198,Nightclub Garage - 2° Floor,38,
+199,Nightclub Garage - 3° Floor,39,
+200,Nightclub Garage - 4° Floor,40,
+202,Arena Workshop,43,995000
+203,Arena Garage Floor B1,44,"195,000"
+204,Arena Garage Floor B2,44,"265,000"
+205,The Diamond Casino Master Penthouse,46,1500000
+206,Pixel Pete's Arcade,47,1235000
+207,Wonderama Arcade,47,1565000
+208,Videogeddon Arcade,47,1875000
+209,Warehouse Arcade,47,2135000
+210,Insert Coin Arcade,47,2345000
+211,Eight-Bit Arcade,47,2530000
+213,Kosatka Submarine,49,2200000
+214,Strawberry Auto Shop,50,1705000
+215,Rancho Auto Shop,50,1750000
+216,Mission Row Auto Shop,50,1670000
+217,La Mesa Auto Shop,50,1920000
+218,Burton Auto Shop,50,1830000
+219,Rockford Hills Agency,51,2415000
+220,Hawick Agency,51,2830000
+221,Little Seoul Agency,51,2010000
+222,Vespucci Canals Agency,51,2145000
+223,The Freakshop,52,750000
+225,Eclipse Blvd Garage 1st Floor,54,2740000
+226,Eclipse Blvd Garage 2nd Floor,54,
+227,Eclipse Blvd Garage 3rd Floor,54,
+228,Eclipse Blvd Garage 4th Floor,54,
+229,Eclipse Blvd Garage 5th Floor,54,
+230,Paleto Bay Salvage Yard,59,1620000
+231,La Puerta Salvage Yard,59,2690000
+232,Sandy Shores Salvage Yard,59,2030000
+233,Murrieta Heights Salvage Yard,59,2420000
+234,Strawberry Salvage Yard,59,2570000
+235,Paleto Bay Bail Office,60,1650000
+236,Davis Bail Office,60,2000000
+237,Del Perro Bail Office,60,2350000
+238,Downtown Vinewood Bail Office,60,2620000
+239,Mission Row Bail Office,60,2390000
+240,Darnell Bros Garment Factory,61,2350000
+241,McKenzie Field Hangar,62,1475000
+242,Hands On Car Wash,64,1000000
+243,Smoke on the Water,65,850000
+244,Higgins Helitours,66,900000
+245,The Tongva Estate (Devin Weston's Mansion),67,11500000
+246,Richman Villa (Mansion),67,12800000
+247,The Vinewood Residence (Mansion),67,12200000
+248,Office Garage Custom Auto Shop,68,900000
+249,Arcade Garage,71,
+250,Nightclub Garage Floor,74,
+251,Aircraft Slot 1,32,
+252,Aircraft Slot 2,33,
+1001,The Vinewood Club Garage,101,
+1002,The Vinewood Club Garage 1st Floor,102,
+1003,The Vinewood Club Garage 2nd Floor,103,
+1004,The Vinewood Club Garage 3rd Floor,104,
+1005,The Vinewood Club Garage 4th Floor,105,
+1006,The Vinewood Club Garage 5th Floor,106,
+1000,Inventory,100,

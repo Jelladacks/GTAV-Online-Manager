@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ColorPresetPreviewWidget</class>
+ <widget class="QWidget" name="ColorPresetPreviewWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>300</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <widget class="QFrame" name="ColorCardFrame">
+     <property name="enabled">
+      <bool>true</bool>
+     </property>
+     <property name="styleSheet">
+      <string notr="true"/>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::Shape::NoFrame</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Shadow::Raised</enum>
+     </property>
+     <widget class="QFrame" name="ColorPreviewFrame">
+      <property name="enabled">
+       <bool>true</bool>
+      </property>
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>300</width>
+        <height>300</height>
+       </rect>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::Shape::NoFrame</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Shadow::Plain</enum>
+      </property>
+      <property name="lineWidth">
+       <number>0</number>
+      </property>
+      <layout class="QHBoxLayout" name="horizontalLayout_2">
+       <property name="leftMargin">
+        <number>0</number>
+       </property>
+       <property name="topMargin">
+        <number>0</number>
+       </property>
+       <property name="rightMargin">
+        <number>0</number>
+       </property>
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <item>
+        <widget class="QFrame" name="NeonlightOutlineFrame">
+         <property name="styleSheet">
+          <string notr="true">#NeonlightOutlineFrame{
+color:rgb(85, 0, 255)
+}</string>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::Shape::Panel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Shadow::Plain</enum>
+         </property>
+         <property name="lineWidth">
+          <number>5</number>
+         </property>
+         <widget class="QFrame" name="PearlFrame">
+          <property name="geometry">
+           <rect>
+            <x>5</x>
+            <y>5</y>
+            <width>289</width>
+            <height>289</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">#PearlFrame{
+background-color:qlineargradient(spread:pad, x1:0.5, y1:0.443818, x2:0.840909, y2:0.869, stop:0.301136 rgba(255, 255, 255, 0), stop:1 rgba(255, 164, 0, 255))
+}</string>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::Shape::NoFrame</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Shadow::Raised</enum>
+          </property>
+         </widget>
+         <widget class="ImageFittingLabel" name="LiveryImageLabel">
+          <property name="geometry">
+           <rect>
+            <x>5</x>
+            <y>5</y>
+            <width>289</width>
+            <height>289</height>
+           </rect>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>20</pointsize>
+            <bold>false</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>Livery</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignmentFlag::AlignCenter</set>
+          </property>
+         </widget>
+         <widget class="QFrame" name="ColorPaletteFrame">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>5</y>
+            <width>294</width>
+            <height>289</height>
+           </rect>
+          </property>
+          <property name="frameShape">
+           <enum>QFrame::Shape::NoFrame</enum>
+          </property>
+          <property name="frameShadow">
+           <enum>QFrame::Shadow::Raised</enum>
+          </property>
+          <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="5,10,10,10,70,150">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+           <property name="leftMargin">
+            <number>0</number>
+           </property>
+           <property name="topMargin">
+            <number>0</number>
+           </property>
+           <property name="rightMargin">
+            <number>0</number>
+           </property>
+           <property name="bottomMargin">
+            <number>0</number>
+           </property>
+           <item>
+            <widget class="QFrame" name="HeadlightColorFrame">
+             <property name="styleSheet">
+              <string notr="true">#HeadlightColorFrame{
+background-color:rgb(255, 253, 242)
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::Shape::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Shadow::Raised</enum>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QFrame" name="WheelColorFrame">
+             <property name="styleSheet">
+              <string notr="true">#WheelColorFrame{
+background-color:rgb(150, 20, 30)
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::Shape::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Shadow::Raised</enum>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QFrame" name="DialColorFrame">
+             <property name="styleSheet">
+              <string notr="true">#DialColorFrame{
+background-color:rgb(50, 30, 30)
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::Shape::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Shadow::Raised</enum>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QFrame" name="TrimColorFrame">
+             <property name="styleSheet">
+              <string notr="true">#TrimColorFrame{
+background-color:rgb(60, 70, 150)
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::Shape::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Shadow::Raised</enum>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QFrame" name="ScolorFrame">
+             <property name="styleSheet">
+              <string notr="true">#ScolorFrame{
+background-color:rgb(235, 255, 255)
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::Shape::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Shadow::Raised</enum>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QFrame" name="PcolorFrame">
+             <property name="styleSheet">
+              <string notr="true">#PcolorFrame{
+background-color:rgb(255, 243, 242)
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::Shape::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Shadow::Raised</enum>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+         <zorder>ColorPaletteFrame</zorder>
+         <zorder>LiveryImageLabel</zorder>
+         <zorder>PearlFrame</zorder>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QFrame" name="ColorDetailOverlayFrame">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>300</width>
+        <height>300</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">#ColorDetailOverlayFrame{
+background-color:rgba(0, 0, 0, 160)
+}</string>
+      </property>
+      <property name="frameShape">
+       <enum>QFrame::Shape::NoFrame</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Shadow::Plain</enum>
+      </property>
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <property name="leftMargin">
+        <number>50</number>
+       </property>
+       <property name="topMargin">
+        <number>50</number>
+       </property>
+       <property name="rightMargin">
+        <number>50</number>
+       </property>
+       <property name="bottomMargin">
+        <number>50</number>
+       </property>
+       <item>
+        <widget class="QLabel" name="PresetNameLabel">
+         <property name="font">
+          <font>
+           <pointsize>15</pointsize>
+          </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">#PresetNameLabel{
+color:rgb(255, 255, 255)
+}</string>
+         </property>
+         <property name="text">
+          <string>Preset Name</string>
+         </property>
+         <property name="alignment">
+          <set>Qt::AlignmentFlag::AlignCenter</set>
+         </property>
+         <property name="margin">
+          <number>8</number>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="PrimaryColorGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="PColorTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#PColorTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Primary : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="PcolorTextLabel">
+           <property name="styleSheet">
+            <string notr="true">#PcolorTextLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Matte Black</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="SecondaryColorGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="ScolorTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#ScolorTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Secondary : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="ScolorTextLabel">
+           <property name="styleSheet">
+            <string notr="true">#ScolorTextLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Metallic Earth Brown</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="PearlescentGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="PearlTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#PearlTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Pearlescent : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="PearlTextGroup">
+           <property name="styleSheet">
+            <string notr="true">#PearlTextGroup{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Ice White</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="LiveryGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="LiveryTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#LiveryTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Livery : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="LiveryTextLabel">
+           <property name="styleSheet">
+            <string notr="true">#LiveryTextLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Downtown Co. Cap</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="WheelColorGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="WheelTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#WheelTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Wheel : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="WheelTextLabel">
+           <property name="styleSheet">
+            <string notr="true">#WheelTextLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Desert Green</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="DialColorGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="DialTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#DialTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Dial : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="DialTextLabel">
+           <property name="styleSheet">
+            <string notr="true">#DialTextLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Bronze</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="TrimColorGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="TrimTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#TrimTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Trim : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="TrimTextLabel">
+           <property name="styleSheet">
+            <string notr="true">#TrimTextLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Defualt</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="NeonLightGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="NeonlightTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#NeonlightTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Neon : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="NeonTextLabel">
+           <property name="styleSheet">
+            <string notr="true">#NeonTextLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Blacklight</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="HeadlightGroup">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="HeadlightTagLabel">
+           <property name="styleSheet">
+            <string notr="true">#HeadlightTagLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Headlight : </string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="HeadlightTextLabel">
+           <property name="styleSheet">
+            <string notr="true">#HeadlightTextLabel{
+color:rgb(255, 255, 255)
+}</string>
+           </property>
+           <property name="text">
+            <string>Red</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>ImageFittingLabel</class>
+   <extends>QLabel</extends>
+   <header>UI/lib/ImageFittingLabel</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

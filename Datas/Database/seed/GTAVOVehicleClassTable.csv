@@ -1,0 +1,24 @@
+﻿ID,Name,EngName,KorName
+1,Boats,Boats,보트
+2,Commercial,Commercial,상업용
+3,Compacts,Compacts,소형
+4,Coupes,Coupes,쿠페
+5,Cycles,Cycles,자전거
+6,Emergency,Emergency,긴급 차량
+7,Helicopters,Helicopters,헬리콥터
+8,Industrial,Industrial,공업용
+9,Military,Military,군용
+10,Motorcycles,Motorcycles,오토바이
+11,Muscle,Muscle,머슬카
+12,Off-Road,Off-Road,오프로드
+13,Open Wheel,Open Wheel,오픈휠
+14,Planes,Planes,비행기
+15,Sedans,Sedans,세단
+16,Service,Service,서비스
+17,Sports,Sports,스포츠카
+18,Sports Classics,Sports Classics,스포츠 클래식
+19,Supers,Supers,슈퍼카
+20,SUVs,SUVs,SUV
+21,Trains,Trains,Trains
+22,Utility,Utility,다목적
+23,Vans,Vans,밴

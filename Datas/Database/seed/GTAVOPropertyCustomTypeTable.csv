@@ -1,0 +1,128 @@
+﻿ID,Label,Key,Name,Property Type ID,Is Unchangeable,Max Owned
+1,Custom Apartment Style Option,CA_Style,Style,7,0,1
+2,Yacht Option,Yacht_Fittings,Fittings,12,0,1
+3,Yacht Option,Yacht_Lighting,Lighting,12,0,1
+4,Yacht Option,Yacht_Color,Color Scheme,12,0,1
+5,Office Customization: Interior Décor,Office_Interior,Interior Décor,17,0,1
+6,Office Customization: Personnel,Office_Personnel,Personnel,17,0,1
+7,Office Customization: Gun Locker,Office_Locker,Gun Locker,17,1,1
+8,Office Customization: Money Safe,Office_Safe,Money Safe,17,1,1
+9,Office Customization: Accomodation & Bed,Office_Accomodation,Accomodation & Bed,17,1,1
+10,Office Garage Customization: Interior,OG_Interior,Interior,19,0,1
+11,Office Garage Customization: Lighting,OG_Lighting,Lighting,19,0,1
+12,Office Garage Customization: Signage,OG_Signage,Signage,19,0,1
+13,Office Garage Custom Auto Shop,OG_AutoShop,Custom Auto Shop,68,0,1
+14,Document Forgery Equipment Upgrade,DF_Equipment,Upgrade,26,1,3
+15,Document Forgery Staff Upgrade,DF_Staff,Staff Upgrade,26,1,0
+16,Document Forgery Security Upgrade,DF_Security,Security Upgrade,26,1,0
+17,Weed Farm Equipment Upgrade,WF_Equipment,Upgrade,25,1,3
+18,Weed Farm Staff Upgrade,WF_Staff,Staff Upgrade,25,1,0
+19,Weed Farm Security Upgrade,WF_Security,Security Upgrade,25,1,0
+20,Cash Factory Equipment Upgrade,CF_Equipment,Upgrade,24,1,3
+21,Cash Factory Staff Upgrade,CF_Staff,Staff Upgrade,24,1,0
+22,Cash Factory Security Upgrade,CF_Security,Security Upgrade,24,1,0
+23,Methamphetamine Lab Equipment Upgrade,ML_Equipment,Upgrade,23,1,3
+24,Methamphetamine Lab Staff Upgrade,ML_Staff,Staff Upgrade,23,1,0
+25,Methamphetamine Lab Security Upgrade,ML_Security,Security Upgrade,23,1,0
+26,Cocaine Lockups Equipment Upgrade,CL_Equipment,Upgrade,22,1,3
+27,Cocaine Lockups Staff Upgrade,CL_Staff,Staff Upgrade,22,1,0
+28,Cocaine Lockups Security Upgrade,CL_Security,Security Upgrade,22,1,0
+29,MC Clubhouse Type 1 Style,MC1_Style,Style,69,0,4
+30,MC Clubhouse Type 1 Color,MC1_Color,Mural Color,69,0,1
+31,MC Clubhouse Type 1 Mural,MC1_Mural,Mural,69,0,1
+32,MC Clubhouse Type 1 Club Emblem,MC1_Emblem,Club Emblem,69,0,1
+33,MC Clubhouse Type 1 Gun Locker,MC1_Locker,Gun Locker,69,1,1
+34,MC Clubhouse Type 1 Bike Shop,MC1_BikeShop,Bike Shop,69,1,1
+35,MC Clubhouse Type 2 Style,MC2_Style,Style,70,0,4
+36,MC Clubhouse Type 2 Color,MC2_Color,Mural Color,70,0,1
+37,MC Clubhouse Type 2 Mural,MC2_Mural,Mural,70,0,1
+38,MC Clubhouse Type 2 Club Emblem,MC2_Emblem,Club Emblem,70,0,1
+39,MC Clubhouse Type 2 Gun Locker,MC2_Locker,Gun Locker,70,1,1
+40,MC Clubhouse Type 2 Bike Shop,MC2_BikeShop,Bike Shop,70,1,1
+41,Vehicle Warehouses: Interior Style,VW_Interior,Interior Style,28,0,1
+42,Bunker Customization: Style,BK_Style,Style,29,0,1
+43,Bunker Customization: Personal Quarters,BK_Personal,Personal Quarters,29,1,1
+44,Bunker Customization: Shooting Range,BK_Shooting,Shooting Range,29,0,1
+45,Bunker Customization: Gun Locker,BK_Locker,Gun Locker,29,1,1
+46,Bunker Customization: Transportation,BK_Transportation,Transportation,29,0,1
+47,Bunker Business Upgrades,BK_Equipment,Upgrade,29,1,3
+48,Bunker Business Upgrades,BK_Staff,Staff Upgrade,29,1,0
+49,Bunker Business Upgrades,BK_Security,Security Upgrade,29,1,0
+50,Hangar Customization: Interior Style,HA_Interior,Interior Style,31,0,1
+51,Hangar Customization: Lighting,HA_Lighting,Lighting,31,0,1
+52,Hangar Customization: Floor Graphics,HA_Floor,Floor Graphics,31,0,1
+53,Hangar Customization: Office Furniture,HA_Furniture,Office Furniture,31,0,1
+54,Hangar Customization: Living Quarters,HA_Living,Living Quarters,31,0,1
+55,Hangar Customization: Workshop,HA_Workshop,Workshop,31,1,1
+56,Facility Customization: Style,FA_Style,Style,34,0,1
+57,Facility Customization: Graphics,FA_Graphics,Graphics,34,0,1
+58,Facility Customization: Orbital Cannon,FA_Orbital,Orbital Cannon,34,1,1
+59,Facility Customization: Security Room,FA_Security,Security Room,34,1,1
+60,Facility Customization: Lounge,FA_Lounge,Lounge,34,0,1
+61,Facility Customization: Sleeping Quarters,FA_Sleeping,Sleeping Quarters,34,0,1
+62,Nightclub Customization: Style,NC_Style,Style,36,0,1
+63,Nightclub Customization: Light Rig,NC_Light,Light Rig,36,0,1
+64,Nightclub Customization: Name,NC_Name,Name,36,0,1
+65,Nightclub Customization: Storage,NC_Storage,Storage,36,1,4
+66,,NC_Garage,Garage,36,1,3
+67,Nightclub Customization: Dancers,NC_Dancers,Dancers,36,0,1
+68,Nightclub Customization: Dry Ice,NC_DryIce,Dry Ice,36,1,1
+69,Nightclub: Resident DJ,NC_DJ,DJ,36,0,1
+70,Nightclub Warehouse Upgrades,NC_Equipment,Upgrade,36,1,3
+71,Nightclub Warehouse Upgrades,NC_Staff,Staff Upgrade,36,1,0
+72,Nightclub Warehouse Upgrades,NC_Security,Security Upgrade,36,1,0
+73,Arena Workshop: Office Style,AW_Style,Office Style,43,0,1
+74,Arena Workshop: Graphics,AW_Graphics,Graphics,43,0,1
+75,Arena Workshop: Color,AW_Color,Color,43,0,1
+76,Arena Workshop: Mechanic,AW_Bennys,Mechanic,43,1,2
+77,Arena Workshop: Mechanic,AW_Weapons,Weapons Expert,43,1,0
+78,Arena Workshop: Personal Quarters,AW_Personal,Personal Quarters,43,1,1
+79,Arena Workshop: Garage Floors,AW_G1_Graphics,Garage Floors,44,0,1
+80,Arena Workshop: Garage Floors,AW_G2_Graphics,Garage Floors,45,0,1
+81,Casino Penthouse Colors,CP_Colors,Colors,46,0,1
+82,Retro Arcade Master Control Terminal,AC_MCT,Master Control Terminal,47,1,2
+83,Retro Arcade Drone Station,AC_Drone,Drone Station,47,1,0
+84,Arcade Style,AC_Style,Style,47,0,1
+85,Arcade Mural,AC_Mural,Mural,47,0,1
+86,Arcade Floor,AC_Floor,Floor,47,0,1
+87,Arcade Neon Art,AC_Neon,Neon Art,47,0,1
+88,Arcade Personal Quarters,AC_Personal,Personal Quarters,47,1,1
+89,Arcade High Score Screens,AC_HSScreens,High Score Screens,47,1,1
+90,Arcade Garage,AC_Garage,Garage,47,1,1
+91,Kosatka Sparrow,KS_Sparrow,Sparrow,49,1,1
+92,Kosatka Avisa,KS_Avisa,Avisa,49,1,1
+93,Kosatka Colors,KS_Colors,Colors,49,0,1
+94,Auto Shop Customization: Style,AS_Style,Style,50,0,1
+95,Auto Shop Customization: Tint,AS_Tint,Tint,50,0,1
+96,Auto Shop Customization: Emblem,AS_Emblem,Emblem,50,0,1
+97,Auto Shop Customization: Staff,AS_Staff,Staff,50,1,2
+98,Auto Shop Customization: Personal Quarters,AS_Personal,Personal Quarters,50,1,1
+99,Auto Shop Customization: Car Lift,AS_Lift,Car Lift,50,1,1
+100,Auto Shop Customization: Membership,AS_Membership,Membership,50,1,1
+101,Agency Customization: Art Décor,AG_Decor,Art Décor,51,0,1
+102,Agency Customization: Wallpaper,AG_Wallpaper,Wallpaper,51,0,1
+103,Agency Customization: Highlight,AG_Highlight,Highlight,51,0,1
+104,Agency Customization: Armory,AG_Armory,Armory,51,1,1
+105,Agency Customization: Accommodation,AG_Accommodation,Accommodation,51,1,1
+106,Agency Customization: Vehicle Workshop,AG_Workshop,Vehicle Workshop,51,1,1
+107,Salvage Yard Upgrades: Tint,SY_Tint,Tint,59,0,1
+108,Salvage Yard Upgrades: Get Trade Rates,SY_TradeRates,Get Trade Rates,59,1,1
+109,Salvage Yard Upgrades: Tow Truck,SY_TowTruck,Tow Truck,59,0,1
+110,Salvage Yard Upgrades: Wall Safe,SY_Safe,Wall Safe,59,1,1
+111,Salvage Yard Upgrades: Staff,SY_Staff,Staff,59,1,1
+112,Eclipse Blvd Garage Interiors,EB_Interiors,Interiors,54,0,1
+113,Eclipse Blvd Garage Lighting,EB_Lighting,Lighting,54,0,1
+114,Bail Office: Style,BO_Style,Style,60,0,1
+115,Bail Office: Agents,BO_Agents,Agents,60,1,2
+116,Bail Office: Personal Quarters,BO_Personal,Personal Quarters,60,1,1
+117,Bail Office: Gun Locker,BO_Locker,Gun Locker,60,1,1
+118,Bail Office: Armor Plating,BO_Armor,Armor Plating,60,1,1
+119,Mansion Tint,MS_Tint,Tint,67,0,1
+120,Mansion Patterns,MS_Patterns,Patterns,67,0,1
+121,Mansion Decor,MS_Decor,Décor,67,0,1
+122,Mansion Armory,MS_Armory,Armory,67,1,1
+123,Mansion Arcade,MS_Arcade,Arcade,67,1,1
+124,Mansion Car Podium,MS_Podium,Car Podium,67,1,1
+125,Mansion Vehicle Workshop,MS_Workshop,Vehicle Workshop,67,1,1
+126,Mansion AI Concierge,MS_Concierge,AI Concierge,67,0,1
+127,Mansion Security Team,MS_Security,Security Team,67,1,1
