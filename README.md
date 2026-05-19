@@ -1,31 +1,46 @@
 # Grand Theft Auto V Online Manager
 
-> Tool for Easy managing your Vehicles and Properties
-![Main UI](이미지_주소_또는_경로)
+> This is an **external companion app** for Easy managing your Vehicles and Properties
+> It is a **standalone application** that runs completely outside of the game, meaning it does not modify or inject any code into the GTA game client.
+![Main UI](https://github.com/user-attachments/assets/c78b1aba-2014-4710-b03b-6a762ccc4540)
 
 ## Features
 * **Search Vehicle Info**
+
   Find a vehicle Easily using the filters at the top
+  ![Search](https://github.com/user-attachments/assets/70584799-afc1-4703-8421-90aca9376ae6)
   
 * **Manage Your Own Vehicle**
+  
   Check vehicle details
   and track the location and quantity of each vehicle
+  ![Vehicle](https://github.com/user-attachments/assets/8ff0c428-1f87-452c-af42-5fa8568ee963)
   
 * **Manage Your Property and Customs**
+  
   Click the checkbox and Open Custom Dialog for purchasing Customs
+  ![Property](https://github.com/user-attachments/assets/b733ca60-dd98-4b55-a249-b0b4ebac07a7)
   
 * **Paint Preset**
+  
   Save your Cutom Paint Preset
   and Apply it to Your Vehicles
+  ![Paint](https://github.com/user-attachments/assets/d88b4bb5-1eab-425d-acf8-eba8fe5c248b)
 
 * **Customize Your Data**
+  
   You can replace the vehicle or garage images with any picture you like
+  ![Custom](https://github.com/user-attachments/assets/79a61712-1625-4dd6-8245-e92e1f65b26b)
 
 * **Statistics**
+  
   Track your stats and manage your garage effortlessly
+  ![Stats](https://github.com/user-attachments/assets/e470e490-70c5-4f41-9425-106cc919a222)
 
 * **Back up and Sharing**
+  
   Backup and sharing are possible by simply copying and pasting the entire `Customs` folder.
+
   
 ## Automated Data Sync & Easy Maintenance 
   Every time the app launches, it scans the CSV files in the `Datas/Database/seed` folder.
