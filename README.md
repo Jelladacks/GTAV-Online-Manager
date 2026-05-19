@@ -61,10 +61,11 @@
 * Python 3.13.1
 * PySide6
 * SQLite
-* Color Picker from **tomfln**(https://github.com/tomfln/pyqt-colorpicker) licensed under the MIT License.
+* Color Picker from **tomfln** (https://github.com/tomfln/pyqt-colorpicker) licensed under the MIT License.
 
 ## References
 * **Color Picker** - [tomfln](https://github.com/tomfln/pyqt-colorpicker)
+* **laptime and Top speed** - **BROUGHY1322** (https://broughy.com/)
 * **Image Sources**
   * [Rockstar Games](https://rockstargames.com) (All rights reserved by Rockstar Games and Take-Two Interactive) 
   * [GTA Wiki (Fandom)](https://gta.fandom.com/wiki/GTA_Wiki:Copyright)
