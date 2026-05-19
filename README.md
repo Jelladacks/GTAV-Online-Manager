@@ -17,11 +17,28 @@
 * **Paint Preset**
   Save your Cutom Paint Preset
   and Apply it to Your Vehicles
-  
 
-### 설치 방법
-1. [Releases](링크) 탭에서 최신 버전의 `.zip` 파일을 다운로드합니다.
-2. 압축을 풀고 `GTAV Online Manager.exe`를 실행합니다.
+* **Customize Your Data**
+  You can replace the vehicle or garage images with any picture you like
+
+* **Statistics**
+  Track your stats and manage your garage effortlessly
+
+* **Back up and Sharing**
+  Backup and sharing are possible by simply copying and pasting the entire `Customs` folder.
+  
+## Automated Data Sync & Easy Maintenance 
+  Every time the app launches, it scans the CSV files in the `Datas/Database/seed` folder.
+  If any changes are detected, the app's database is automatically updated to match.
+  Therefore, even when GTA receives an update, you can support it simply by adding rows to the CSV files and inserting new image files, without needing to update the app itself.
+  
+## Database Reset Option via CLI Args
+  Running the app with the `--reset` argument will fully reset the database.
+  Warning: This will also permanently delete all user data in the Customs folder.
+
+### Installation
+1. Download Recent Version at Releases Tab [Releases]((https://github.com/Jelladacks/GTAV-Online-Manager/releases/tag/v1.0.0)) 
+2. Extract and Launch `GTAV Online Manager.exe`
 
 ## Built With
 * Python 3.13.1
