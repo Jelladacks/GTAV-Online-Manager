@@ -3,6 +3,10 @@
 > This is an **external companion app** for Easy managing your Vehicles and Properties
 > It is a **standalone application** that runs completely outside of the game, meaning it does not modify or inject any code into the GTA game client.
 ![Main UI](https://github.com/user-attachments/assets/c78b1aba-2014-4710-b03b-6a762ccc4540)
+>
+> Click [here](https://youtu.be/BwFk0pHFWbo) to watch Tutorial Video
+>
+> 
 
 ## Features
 * **Search Vehicle Info**
@@ -48,6 +52,44 @@
   Every time the app launches, it scans the CSV files in the `Datas/Database/seed` folder.
   If any changes are detected, the app's database is automatically updated to match.
   Therefore, even when GTA receives an update, you can support it simply by adding rows to the CSV files and inserting new image files, without needing to update the app itself.
+
+**Custom Language Support**
+
+If you want Manufacturer names and Vehicle names to be displayed in a language other than Korean,
+you can modify the `KorName` column in the following files:
+
+* `Datas/Database/seed/GTAVOManufacturerDataTable.csv`
+* `Datas/Database/seed/GTAVOVehicleTranslation.csv`
+
+You may replace the Korean text with your preferred language.
+
+**Adding or Editing Liveries**
+
+If you want to add or edit liveries manually:
+
+1. Add a new row to:
+   `Datas/Database/seed/GTAVOLiveryType.csv`
+
+2. Assign a unique ID and enter the livery name.
+
+3. Place a `.webp` image file inside:
+   `Datas/images/Liveries`
+
+4. The image filename must match the livery name added in the CSV row.
+
+**Adding Custom Vehicles**
+
+The same process also applies to vehicles.
+
+1. Add vehicle information to:
+   `Datas/Database/seed/GTAVOVehicleDataTable.csv`
+
+2. Add a vehicle image to:
+   `Datas/images/Vehicles`
+
+3. The image filename format must be:
+   `vehicleID.jpg`
+
   
 ## Database Reset Option via CLI Args
   Running the app with the `--reset` argument will fully reset the database.
