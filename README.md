@@ -2,9 +2,12 @@
 
 > This is an **external companion app** for Easy managing your Vehicles and Properties
 > It is a **standalone application** that runs completely outside of the game, meaning it does not modify or inject any code into the GTA game client.
+> 
+> Click [🎬 HERE ](https://youtu.be/BwFk0pHFWbo) to watch Tutorial Video
+> 
 ![Main UI](https://github.com/user-attachments/assets/c78b1aba-2014-4710-b03b-6a762ccc4540)
 >
-> Click [🎬 HERE ](https://youtu.be/BwFk0pHFWbo) to watch Tutorial Video
+> 
 >
 > 
 
